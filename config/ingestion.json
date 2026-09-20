@@ -1,0 +1,61 @@
+{
+  "site": {
+    "name": "Bridge Hedges",
+    "url": "https://bridgehedges.co.uk",
+    "repo": "nordsyslimited/bridgehedges.co.uk"
+  },
+  "ingestion": {
+    "description": "Nightly: finds a real, verifiable UK hedge-care YouTube video (or written source) not yet covered, and creates a video-companion-led How-To article for each, pairing the video with Bridge/Nailbourne-valley species, timing and conservation-area specifics. Morning: audits the full site, including structural compliance with the video-companion house style and dead-video-embed checks.",
+    "structuralAngle": "video-companion-led",
+    "structuralAngleNote": "Every article is built around one real, embedded UK hedge-care video, credited to its creator, then extended with what the video doesn't cover: North Downs chalk vs Nailbourne-valley frost-pocket species choice, Bifrons Park Conservation Area rules, nesting law. This is the ring-wide differentiator versus chatham (timeline-led), canterbury (checklist-first), broadstairs (procedural-first), gravesend (regulation-first) and the other sister sites.",
+    "region": "UK",
+    "minLikes": null,
+    "minViews": null,
+    "videosPerRun": 1,
+    "categories": [
+      "Field-boundary hedge laying and gapping-up",
+      "Species-specific pruning technique (hornbeam, beech, yew, hawthorn)",
+      "Nesting-season law and cutting timing",
+      "Staged reduction of overgrown Leylandii/laurel screens",
+      "Planting a new hedge on North Downs chalk vs valley-floor ground",
+      "Conservation-area notice periods and paperwork",
+      "High-hedge complaint process and neighbour law",
+      "Box blight and box tree moth management",
+      "Tool care and technique"
+    ],
+    "howtoCategoryTags": [
+      "field-boundaries",
+      "species-care",
+      "timing-and-the-law",
+      "reduction",
+      "planting",
+      "conservation-area"
+    ],
+    "contentKindSingular": "how-to article",
+    "contentKindPlural": "how-to articles",
+    "contentGlob": "how-to/*.html",
+    "contentGlobExclude": ["how-to/index.html"]
+  },
+  "schedule": {
+    "nightly": {
+      "name": "Nightly content finder",
+      "cronUtc": "15 5 * * *",
+      "daysBetweenRuns": 1,
+      "description": "Find 1 real, verifiable UK hedge-care video, generate a video-companion-led article, commit + push."
+    },
+    "morning": {
+      "name": "Morning site audit",
+      "cronUtc": "15 10 * * *",
+      "daysBetweenRuns": 1,
+      "description": "Audit every page: broken links, dead video embeds, SEO, video-companion structural compliance, relevance."
+    }
+  },
+  "notifications": {
+    "email": "hello@bridgehedges.co.uk",
+    "channel": "TBD, no email-report workflow wired yet, see INGESTION.md"
+  },
+  "triggers": {
+    "nightly": "wired 2026-09-20 by Jet, RemoteTrigger, see memory/scheduled_jobs.md",
+    "morning": "wired 2026-09-20 by Jet, RemoteTrigger, see memory/scheduled_jobs.md"
+  }
+}
