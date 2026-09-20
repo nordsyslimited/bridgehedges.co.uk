@@ -93,7 +93,7 @@ nav.primary a.active::after { content: ''; position: absolute; left: 0; right: 0
  background:
  linear-gradient(100deg, rgba(15,23,35,0.88) 0%, rgba(15,23,35,0.72) 38%, rgba(15,23,35,0.35) 68%, rgba(15,23,35,0.15) 100%),
  linear-gradient(0deg, rgba(15,23,35,0.55) 0%, rgba(15,23,35,0.05) 45%),
- url('/assets/img/hero-bridge.png');
+ url('/assets/img/hero-bridge.jpg');
  background-size: cover;
  background-position: center;
  background-repeat: no-repeat;
