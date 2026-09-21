@@ -1,0 +1,32 @@
+{
+  "run_date": "2026-09-21",
+  "run_type": "nightly-content",
+  "status": "success",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "box-blight-box-tree-moth-video-bridge",
+      "url": "https://bridgehedges.co.uk/how-to/box-blight-box-tree-moth-video-bridge.html",
+      "category": "species-care",
+      "topic": "Box blight and box tree moth management",
+      "video_id": "49wGHoqzksQ",
+      "video_title": "What is wrong with my Box Hedge? David Domoney explains.",
+      "video_creator": "David Domoney",
+      "video_url": "https://www.youtube.com/watch?v=49wGHoqzksQ",
+      "video_published": "2024-05",
+      "video_verified": true,
+      "video_verification_method": "web-search-cross-reference",
+      "youtube_egress_blocked": true,
+      "date_published": "2026-09-21"
+    }
+  ],
+  "files_modified": [
+    "how-to/box-blight-box-tree-moth-video-bridge.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "reports/2026-09-21-content.md",
+    "reports/2026-09-21-status.json"
+  ],
+  "deploy_expected": true,
+  "deploy_trigger": "git push to main fires .github/workflows/deploy.yml"
+}
