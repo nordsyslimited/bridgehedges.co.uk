@@ -1,0 +1,9 @@
+{
+  "lastAuditAt": "2026-09-21T00:00:00Z",
+  "auditStatus": "issues",
+  "issueCount": 2,
+  "note": "2 needs-review: YouTube embeds unverifiable via proxy (not confirmed dead); stale jobs launch callout. 2 auto-fixed: jobs/index.html wrong location names (sister-site copy); sitemap /how-to/ lastmod stale.",
+  "lastNightlyContentAt": "2026-09-21",
+  "lastNightlyContentStatus": "success",
+  "articlesShipped": 5
+}
