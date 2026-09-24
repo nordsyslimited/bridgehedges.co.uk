@@ -1,0 +1,32 @@
+{
+  "run_date": "2026-09-24",
+  "run_type": "nightly-content",
+  "status": "success",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "planting-bare-root-hedge-north-downs-chalk-bridge",
+      "url": "https://bridgehedges.co.uk/how-to/planting-bare-root-hedge-north-downs-chalk-bridge.html",
+      "category": "planting",
+      "topic": "Planting a new hedge on North Downs chalk vs valley-floor ground",
+      "video_id": "qDJc9rqCAY4",
+      "video_title": "How to plant bare root hedges | Grow at Home",
+      "video_creator": "Royal Horticultural Society",
+      "video_presenter": "Alex Hankey, Trials Team Leader, RHS Garden Wisley",
+      "video_url": "https://www.youtube.com/watch?v=qDJc9rqCAY4",
+      "video_verified": true,
+      "video_verification_method": "web-search-cross-reference plus RHS Wisley Facebook page confirmation of presenter",
+      "youtube_egress_blocked": true,
+      "date_published": "2026-09-24"
+    }
+  ],
+  "files_modified": [
+    "how-to/planting-bare-root-hedge-north-downs-chalk-bridge.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "reports/2026-09-24-content.md",
+    "reports/2026-09-24-status.json"
+  ],
+  "deploy_expected": true,
+  "deploy_trigger": "git push to main fires .github/workflows/deploy.yml"
+}
