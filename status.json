@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-09-24T00:00:00Z",
+  "lastAuditAt": "2026-09-25T10:20:00Z",
   "auditStatus": "issues",
-  "issueCount": 2,
-  "note": "2 needs-review: YouTube embeds unverifiable via proxy (not confirmed dead); stale jobs launch callout ('July 2026'). 1 auto-fixed: sitemap missing hedge-planting.html and hedge-removal.html.",
-  "lastNightlyContentAt": "2026-09-24",
+  "issueCount": 3,
+  "note": "3 needs-review: video embeds unverifiable via proxy (carry-over); max-image-preview:large missing from 15 non-article pages; stale July 2026 jobs launch copy (carry-over). 0 auto-fixes.",
+  "lastNightlyContentAt": "2026-09-25",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 6
+  "articlesShipped": 7
 }
