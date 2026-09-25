@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-25",
+  "run": "nightly-content",
+  "status": "success",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "hard-pruning-laurel-screen-video-bridge",
+      "url": "https://bridgehedges.co.uk/how-to/hard-pruning-laurel-screen-video-bridge.html",
+      "category": "reduction",
+      "video_id": "Znfmy1gtH0c",
+      "video_title": "Hard Pruning Laurel hedges - Burncoose Nurseries",
+      "video_channel": "Burncoose Nurseries",
+      "video_url": "https://www.youtube.com/watch?v=Znfmy1gtH0c",
+      "verification_method": "search-result cross-referencing (youtube.com egress blocked)",
+      "verified": true
+    }
+  ],
+  "files_modified": [
+    "how-to/hard-pruning-laurel-screen-video-bridge.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "how-to/when-to-cut-hedges-nesting-law-video-bridge.html"
+  ]
+}
