@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-26",
+  "run": "nightly-content",
+  "status": "success",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "hawthorn-hedge-trimming-video-bridge",
+      "url": "https://bridgehedges.co.uk/how-to/hawthorn-hedge-trimming-video-bridge.html",
+      "category": "species-care",
+      "video_id": "biZ1JI980wg",
+      "video_title": "Hawthorn Hedge Trimming",
+      "video_channel": "unknown (youtube.com egress blocked)",
+      "video_url": "https://www.youtube.com/watch?v=biZ1JI980wg",
+      "verification_method": "search-result cross-referencing (youtube.com egress blocked)",
+      "verified": true
+    }
+  ],
+  "files_modified": [
+    "how-to/hawthorn-hedge-trimming-video-bridge.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "how-to/hedge-laying-south-of-england-style-bridge.html",
+    "reports/2026-09-26-content.md",
+    "reports/2026-09-26-status.json"
+  ]
+}
