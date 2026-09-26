@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-09-25T10:20:00Z",
+  "lastAuditAt": "2026-09-26T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 3,
-  "note": "3 needs-review: video embeds unverifiable via proxy (carry-over); max-image-preview:large missing from 15 non-article pages; stale July 2026 jobs launch copy (carry-over). 0 auto-fixes.",
-  "lastNightlyContentAt": "2026-09-25",
+  "issueCount": 4,
+  "note": "4 needs-review: coastal content in 6 services/tree pages (NEW - footer/lede/street-name scaffold carry-over); video embeds unverifiable via proxy (carry-over, now 8 videos); max-image-preview:large missing from 15 non-article pages (carry-over); stale July 2026 jobs launch copy (carry-over). Auto-fixed: 3 stale sitemap lastmod dates (how-to/index, hedge-laying, when-to-cut).",
+  "lastNightlyContentAt": "2026-09-26",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 7
+  "articlesShipped": 8
 }
