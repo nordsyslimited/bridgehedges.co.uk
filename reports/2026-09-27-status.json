@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-27",
+  "run": "nightly-content",
+  "status": "success",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "beech-hedge-trimming-video-bridge",
+      "url": "https://bridgehedges.co.uk/how-to/beech-hedge-trimming-video-bridge.html",
+      "category": "species-care",
+      "video_id": "ydKEZ46Jriw",
+      "video_title": "Time to Trim a Beech Hedge",
+      "video_channel": "PrimroseTV (Primrose.co.uk)",
+      "video_url": "https://www.youtube.com/watch?v=ydKEZ46Jriw",
+      "verification_method": "search-result cross-referencing (youtube.com egress blocked)",
+      "verified": true
+    }
+  ],
+  "files_modified": [
+    "how-to/beech-hedge-trimming-video-bridge.html",
+    "how-to/index.html",
+    "how-to/hornbeam-hedge-trimming-video-bridge.html",
+    "sitemap.xml",
+    "reports/2026-09-27-content.md",
+    "reports/2026-09-27-status.json"
+  ]
+}
