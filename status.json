@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-09-26T07:00:00Z",
+  "lastAuditAt": "2026-09-27T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 4,
-  "note": "4 needs-review: coastal content in 6 services/tree pages (NEW - footer/lede/street-name scaffold carry-over); video embeds unverifiable via proxy (carry-over, now 8 videos); max-image-preview:large missing from 15 non-article pages (carry-over); stale July 2026 jobs launch copy (carry-over). Auto-fixed: 3 stale sitemap lastmod dates (how-to/index, hedge-laying, when-to-cut).",
-  "lastNightlyContentAt": "2026-09-26",
+  "issueCount": 3,
+  "note": "3 needs-review: coastal content carry-over in 6 services/tree pages (footer + body text, persistent); video embeds unverifiable via proxy (9 videos); stale July 2026 launch-date copy on jobs/index.html empty state. Auto-fixed: max-image-preview:large added to 15 content pages; 2 stale redirect entries removed from sitemap.",
+  "lastNightlyContentAt": "2026-09-27",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 8
+  "articlesShipped": 9
 }
