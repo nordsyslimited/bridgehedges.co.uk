@@ -3,7 +3,7 @@
   "auditStatus": "issues",
   "issueCount": 3,
   "note": "3 needs-review: coastal content carry-over in 6 services/tree pages (footer + body text, persistent); video embeds unverifiable via proxy (9 videos); stale July 2026 launch-date copy on jobs/index.html empty state. Auto-fixed: max-image-preview:large added to 15 content pages; 2 stale redirect entries removed from sitemap.",
-  "lastNightlyContentAt": "2026-09-27",
+  "lastNightlyContentAt": "2026-09-28",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 9
+  "articlesShipped": 10
 }
