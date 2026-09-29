@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-09-28T07:00:00Z",
+  "lastAuditAt": "2026-09-29T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 2,
-  "note": "2 needs-review (persistent): coastal content carry-over in 6 services/tree pages; video embeds unverifiable via proxy (10 videos). No auto-fixes applied — site was already clean on all auto-fix criteria.",
+  "issueCount": 3,
+  "note": "3 needs-review: coastal content carry-over in 6 services/tree pages (persistent); video embeds unverifiable via proxy (11 videos, up from 10 — new sharpening article); new finding: missing og:type/title/description/url on 16 non-article pages. No auto-fixes applied — site clean on all auto-fix criteria.",
   "lastNightlyContentAt": "2026-09-29",
   "lastNightlyContentStatus": "success",
   "articlesShipped": 11
