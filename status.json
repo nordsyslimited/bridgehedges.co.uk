@@ -3,7 +3,7 @@
   "auditStatus": "issues",
   "issueCount": 2,
   "note": "2 needs-review (persistent): coastal content carry-over in 6 services/tree pages; video embeds unverifiable via proxy (10 videos). No auto-fixes applied — site was already clean on all auto-fix criteria.",
-  "lastNightlyContentAt": "2026-09-28",
+  "lastNightlyContentAt": "2026-09-29",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 10
+  "articlesShipped": 11
 }

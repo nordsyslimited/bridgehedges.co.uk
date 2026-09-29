@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-29",
+  "run": "nightly-content",
+  "status": "success",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "sharpen-hedge-shears-video-bridge",
+      "url": "https://bridgehedges.co.uk/how-to/sharpen-hedge-shears-video-bridge.html",
+      "category": "tool-care",
+      "video_id": "KD8BVZ15C6E",
+      "video_title": "Sharpening Garden Shears",
+      "video_channel": "Paul Sellers (@Paul.Sellers)",
+      "video_url": "https://www.youtube.com/watch?v=KD8BVZ15C6E",
+      "verification_method": "search-result cross-referencing (youtube.com egress blocked)",
+      "verified": true
+    }
+  ],
+  "files_modified": [
+    "how-to/sharpen-hedge-shears-video-bridge.html",
+    "how-to/index.html",
+    "how-to/yew-hedge-pruning-burncoose-video-bridge.html",
+    "sitemap.xml",
+    "reports/2026-09-29-content.md",
+    "reports/2026-09-29-status.json",
+    "status.json"
+  ]
+}
