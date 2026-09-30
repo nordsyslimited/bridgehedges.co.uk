@@ -1,16 +1,16 @@
 {
-  "lastAuditAt": "2026-09-29T07:00:00Z",
+  "lastAuditAt": "2026-09-30T07:30:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "3 needs-review: coastal content carry-over in 6 services/tree pages (persistent); video embeds unverifiable via proxy (11 videos, up from 10 — new sharpening article); new finding: missing og:type/title/description/url on 16 non-article pages. No auto-fixes applied — site clean on all auto-fix criteria.",
+  "note": "3 persistent needs-review: coastal content carry-over in 6 services/tree pages; missing og:type/title/description/url on 17 non-article pages (grew from 16 as count includes all service/redirect pages); video embeds unverifiable via proxy (13 videos). No auto-fixes applied — site clean on all auto-fix criteria. 2 new articles (leylandii, conservation-area) pass all checks.",
   "lastNightlyContentAt": "2026-09-30",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 12,
-  "lastSlug": "leylandii-conifer-hedge-trimming-video-bridge",
+  "articlesShipped": 13,
+  "lastSlug": "conservation-area-tree-notice-video-bridge",
   "lastVideo": {
-    "id": "IImv7urAPMI",
-    "title": "A focus on Leylandii hedging: All you need to know about Cupressocyparis leylandii",
-    "channel": "best4hedging",
-    "channelUrl": "https://www.youtube.com/c/Best4hedgingCoUk"
+    "id": "lPoTE9uTrLI",
+    "title": "Is Your Tree Protected?",
+    "channel": "Ask The Arb",
+    "channelUrl": "https://www.youtube.com/watch?v=lPoTE9uTrLI"
   }
 }
