@@ -3,7 +3,14 @@
   "auditStatus": "issues",
   "issueCount": 3,
   "note": "3 needs-review: coastal content carry-over in 6 services/tree pages (persistent); video embeds unverifiable via proxy (11 videos, up from 10 — new sharpening article); new finding: missing og:type/title/description/url on 16 non-article pages. No auto-fixes applied — site clean on all auto-fix criteria.",
-  "lastNightlyContentAt": "2026-09-29",
+  "lastNightlyContentAt": "2026-09-30",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 11
+  "articlesShipped": 12,
+  "lastSlug": "leylandii-conifer-hedge-trimming-video-bridge",
+  "lastVideo": {
+    "id": "IImv7urAPMI",
+    "title": "A focus on Leylandii hedging: All you need to know about Cupressocyparis leylandii",
+    "channel": "best4hedging",
+    "channelUrl": "https://www.youtube.com/c/Best4hedgingCoUk"
+  }
 }
