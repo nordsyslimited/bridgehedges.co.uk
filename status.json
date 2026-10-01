@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-09-30T07:30:00Z",
+  "lastAuditAt": "2026-10-01T07:30:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "3 persistent needs-review: coastal content carry-over in 6 services/tree pages; missing og:type/title/description/url on 17 non-article pages (grew from 16 as count includes all service/redirect pages); video embeds unverifiable via proxy (13 videos). No auto-fixes applied — site clean on all auto-fix criteria. 2 new articles (leylandii, conservation-area) pass all checks.",
+  "note": "3 persistent needs-review: coastal content carry-over in 6 services/tree pages; missing og:type/title/description/url on 16 non-article pages; video embeds unverifiable via proxy (14 videos). No auto-fixes applied — site clean on all auto-fix criteria. New article (privet) passes all checks.",
   "lastNightlyContentAt": "2026-10-01",
   "lastNightlyContentStatus": "success",
   "articlesShipped": 14,
