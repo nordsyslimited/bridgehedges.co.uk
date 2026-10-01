@@ -3,14 +3,14 @@
   "auditStatus": "issues",
   "issueCount": 3,
   "note": "3 persistent needs-review: coastal content carry-over in 6 services/tree pages; missing og:type/title/description/url on 17 non-article pages (grew from 16 as count includes all service/redirect pages); video embeds unverifiable via proxy (13 videos). No auto-fixes applied — site clean on all auto-fix criteria. 2 new articles (leylandii, conservation-area) pass all checks.",
-  "lastNightlyContentAt": "2026-09-30",
+  "lastNightlyContentAt": "2026-10-01",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 13,
-  "lastSlug": "conservation-area-tree-notice-video-bridge",
+  "articlesShipped": 14,
+  "lastSlug": "privet-hedge-trimming-video-bridge",
   "lastVideo": {
-    "id": "lPoTE9uTrLI",
-    "title": "Is Your Tree Protected?",
-    "channel": "Ask The Arb",
-    "channelUrl": "https://www.youtube.com/watch?v=lPoTE9uTrLI"
+    "id": "dXzMk5Ccpho",
+    "title": "HOW TO TRIM AN OVERGROWN PRIVET HEDGE",
+    "channel": "Scott Ellwood Gardening (SE Landscaping)",
+    "channelUrl": "https://www.youtube.com/watch?v=dXzMk5Ccpho"
   }
 }

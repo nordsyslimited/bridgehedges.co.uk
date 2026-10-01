@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-01",
+  "run": "nightly-content",
+  "status": "success",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "privet-hedge-trimming-video-bridge",
+      "url": "https://bridgehedges.co.uk/how-to/privet-hedge-trimming-video-bridge.html",
+      "category": "species-care",
+      "video_id": "dXzMk5Ccpho",
+      "video_title": "HOW TO TRIM AN OVERGROWN PRIVET HEDGE",
+      "video_channel": "Scott Ellwood Gardening (SE Landscaping)",
+      "video_url": "https://www.youtube.com/watch?v=dXzMk5Ccpho",
+      "verification_method": "search-result cross-referencing (youtube.com egress blocked)",
+      "verified": true
+    }
+  ],
+  "files_modified": [
+    "how-to/privet-hedge-trimming-video-bridge.html",
+    "how-to/index.html",
+    "how-to/when-to-cut-hedges-nesting-law-video-bridge.html",
+    "sitemap.xml",
+    "reports/2026-10-01-content.md",
+    "reports/2026-10-01-status.json",
+    "status.json"
+  ]
+}
