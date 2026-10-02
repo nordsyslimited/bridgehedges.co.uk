@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-10-01T07:30:00Z",
+  "lastAuditAt": "2026-10-02T07:30:00Z",
   "auditStatus": "issues",
-  "issueCount": 3,
-  "note": "3 persistent needs-review: coastal content carry-over in 6 services/tree pages; missing og:type/title/description/url on 16 non-article pages; video embeds unverifiable via proxy (15 videos). No auto-fixes applied — site clean on all auto-fix criteria. New articles (privet, photinia) pass all checks.",
+  "issueCount": 4,
+  "note": "4 needs-review: (1) NEW — JSON-LD publisher name HTML-encoded (&amp;) in privet + photinia articles; (2) coastal content in 6 services/tree pages; (3) missing og:type/title/description/url on 16 non-article pages; (4) 15 video embeds unverifiable via proxy. No auto-fixes applied — all auto-fix criteria clean.",
   "lastNightlyContentAt": "2026-10-02",
   "lastNightlyContentStatus": "success",
   "articlesShipped": 15,
