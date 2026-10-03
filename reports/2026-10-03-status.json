@@ -1,0 +1,30 @@
+{
+  "run_date": "2026-10-03",
+  "run_type": "nightly-content",
+  "status": "success",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "holly-hedge-trimming-video-bridge",
+      "url": "https://bridgehedges.co.uk/how-to/holly-hedge-trimming-video-bridge.html",
+      "title": "Holly hedge trimming: a video companion for Bridge, Kent.",
+      "category": "species-care",
+      "video_id": "bdtLi30WY1I",
+      "video_title": "HEDGE TRIMMING this MASSIVE Holly hedge in JUST 3 hours!!!",
+      "video_channel": "The Tattooed Gardener",
+      "video_url": "https://www.youtube.com/watch?v=bdtLi30WY1I",
+      "video_verified": true,
+      "video_verification_method": "search-result-cross-referencing (YouTube egress blocked from Anthropic infra, documented fallback used)",
+      "video_companion_structure_followed": true,
+      "date_published": "2026-10-03"
+    }
+  ],
+  "files_modified": [
+    "how-to/holly-hedge-trimming-video-bridge.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "reports/2026-10-03-content.md",
+    "reports/2026-10-03-status.json"
+  ],
+  "errors": []
+}

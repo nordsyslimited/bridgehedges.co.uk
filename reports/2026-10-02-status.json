@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-02",
+  "run": "nightly-content",
+  "status": "success",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "photinia-red-robin-hedge-pruning-video-bridge",
+      "url": "https://bridgehedges.co.uk/how-to/photinia-red-robin-hedge-pruning-video-bridge.html",
+      "category": "species-care",
+      "video_id": "a6kz7ou_32c",
+      "video_title": "How to Hard Prune shrubs & plants",
+      "video_channel": "Garden Ninja (Lee Burkhill)",
+      "video_url": "https://www.youtube.com/watch?v=a6kz7ou_32c",
+      "verification_method": "search-result cross-referencing (youtube.com egress blocked); confirmed via gardenninja.co.uk cross-reference",
+      "verified": true
+    }
+  ],
+  "files_modified": [
+    "how-to/photinia-red-robin-hedge-pruning-video-bridge.html",
+    "how-to/index.html",
+    "how-to/hard-pruning-laurel-screen-video-bridge.html",
+    "how-to/when-to-cut-hedges-nesting-law-video-bridge.html",
+    "sitemap.xml",
+    "reports/2026-10-02-content.md",
+    "reports/2026-10-02-status.json",
+    "status.json"
+  ]
+}
