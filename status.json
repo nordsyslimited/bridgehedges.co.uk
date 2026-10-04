@@ -2,15 +2,15 @@
   "lastAuditAt": "2026-10-03T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 4,
-  "note": "4 needs-review (all persistent): (1) coastal/Broadstairs content in 6 services/tree pages; (2) JSON-LD publisher name HTML-encoded (&amp;) in privet + photinia articles; (3) missing og:type/title/description/url on 16 non-article pages; (4) YouTube embed live-check blocked by proxy. No auto-fixes applied — all auto-fix criteria clean. New holly article passes all checks.",
-  "lastNightlyContentAt": "2026-10-03",
+  "note": "4 needs-review (all persistent): (1) coastal/Broadstairs content in 6 services/tree pages; (2) JSON-LD publisher name HTML-encoded (&amp;) in privet + photinia articles; (3) missing og:type/title/description/url on 16 non-article pages; (4) YouTube embed live-check blocked by proxy. No auto-fixes applied — all auto-fix criteria clean. New escallonia article passes all checks.",
+  "lastNightlyContentAt": "2026-10-04",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 16,
-  "lastSlug": "holly-hedge-trimming-video-bridge",
+  "articlesShipped": 17,
+  "lastSlug": "escallonia-hedge-pruning-video-bridge",
   "lastVideo": {
-    "id": "bdtLi30WY1I",
-    "title": "HEDGE TRIMMING this MASSIVE Holly hedge in JUST 3 hours!!!",
-    "channel": "The Tattooed Gardener",
-    "channelUrl": "https://www.youtube.com/watch?v=bdtLi30WY1I"
+    "id": "Z3VSHFAw-E0",
+    "title": "Pruning Escallonia",
+    "channel": "Burncoose Nurseries",
+    "channelUrl": "https://www.youtube.com/watch?v=Z3VSHFAw-E0"
   }
 }
