@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-10-03T07:00:00Z",
+  "lastAuditAt": "2026-10-04T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 4,
-  "note": "4 needs-review (all persistent): (1) coastal/Broadstairs content in 6 services/tree pages; (2) JSON-LD publisher name HTML-encoded (&amp;) in privet + photinia articles; (3) missing og:type/title/description/url on 16 non-article pages; (4) YouTube embed live-check blocked by proxy. No auto-fixes applied — all auto-fix criteria clean. New escallonia article passes all checks.",
+  "issueCount": 3,
+  "note": "3 needs-review (all persistent): (1) coastal/Broadstairs content in 6 services/tree pages; (2) missing og:type/title/description/url on 15 non-article pages; (3) YouTube embed live-check blocked by proxy. Auto-fixed: JSON-LD publisher name HTML-encoded (&amp; → &) in privet + photinia articles.",
   "lastNightlyContentAt": "2026-10-04",
   "lastNightlyContentStatus": "success",
   "articlesShipped": 17,
