@@ -7,7 +7,7 @@
   "ingestion": {
     "description": "Nightly: finds a real, verifiable UK hedge-care YouTube video (or written source) not yet covered, and creates a video-companion-led How-To article for each, pairing the video with Bridge/Nailbourne-valley species, timing and conservation-area specifics. Morning: audits the full site, including structural compliance with the video-companion house style and dead-video-embed checks.",
     "structuralAngle": "video-companion-led",
-    "structuralAngleNote": "Every article is built around one real, embedded UK hedge-care video, credited to its creator, then extended with what the video doesn't cover: North Downs chalk vs Nailbourne-valley frost-pocket species choice, Bifrons Park Conservation Area rules, nesting law. This is the ring-wide differentiator versus chatham (timeline-led), canterbury (checklist-first), broadstairs (procedural-first), gravesend (regulation-first) and the other sister sites.",
+    "structuralAngleNote": "Every article is built around one real, embedded UK hedge-care video, credited to its creator, then extended with what the video doesn't cover: North Downs chalk vs Nailbourne-valley frost-pocket species choice, Bifrons Park Conservation Area rules, nesting law. This is this site's own differentiator. Never mention other sites, a network, a ring or common ownership in published copy.",
     "region": "UK",
     "minLikes": null,
     "minViews": null,
