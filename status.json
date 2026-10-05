@@ -1,16 +1,16 @@
 {
-  "lastAuditAt": "2026-09-30T07:30:00Z",
+  "lastAuditAt": "2026-10-04T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "3 persistent needs-review: coastal content carry-over in 6 services/tree pages; missing og:type/title/description/url on 17 non-article pages (grew from 16 as count includes all service/redirect pages); video embeds unverifiable via proxy (13 videos). No auto-fixes applied — site clean on all auto-fix criteria. 2 new articles (leylandii, conservation-area) pass all checks.",
-  "lastNightlyContentAt": "2026-09-30",
+  "note": "3 needs-review (all persistent): (1) coastal/Broadstairs content in 6 services/tree pages; (2) missing og:type/title/description/url on 15 non-article pages; (3) YouTube embed live-check blocked by proxy. Auto-fixed: JSON-LD publisher name HTML-encoded (&amp; → &) in privet + photinia articles.",
+  "lastNightlyContentAt": "2026-10-05",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 13,
-  "lastSlug": "conservation-area-tree-notice-video-bridge",
+  "articlesShipped": 18,
+  "lastSlug": "pyracantha-hedge-pruning-video-bridge",
   "lastVideo": {
-    "id": "lPoTE9uTrLI",
-    "title": "Is Your Tree Protected?",
-    "channel": "Ask The Arb",
-    "channelUrl": "https://www.youtube.com/watch?v=lPoTE9uTrLI"
+    "id": "Po4dUhoLmOg",
+    "title": "Cutting Back a Pyracantha Hedge",
+    "channel": "Ashridge (@AshridgeTrees)",
+    "channelUrl": "https://www.youtube.com/watch?v=Po4dUhoLmOg"
   }
 }
