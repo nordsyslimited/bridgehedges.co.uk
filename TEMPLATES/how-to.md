@@ -76,8 +76,7 @@ generic template. That means:
 
 ### 2. JSON-LD - plain `Article`, not `@graph`, not `HowTo`
 A single `<script type="application/ld+json">` block with a flat `Article`
-object: `headline`, `description`, `author: {"@type": "Person", "name":
-"Richard Lim"}`, `publisher: {"@type": "Organization", "name": "Bridge
+object: `headline`, `description`, `author: {"@type": "Organization", "name": "Bridge Hedges & Tree Services"}`, `publisher: {"@type": "Organization", "name": "Bridge
 Hedges & Tree Services"}`, `datePublished`, `inLanguage`,
 `mainEntityOfPage`. **No `@graph` wrapper, no `BreadcrumbList`, no
 `FAQPage`**, this site's hub page (`how-to/index.html`) is the only page
@@ -166,7 +165,7 @@ the closing Sources line. Only use videos that genuinely exist and that you
 have verified resolve to a real page, do not fabricate a video ID or title.
 
 ### 13. Author/publisher attribution
-Named-person author (`Richard Lim`) in JSON-LD, and prose voice reads as a
+Organization author (the site name) in JSON-LD, and prose voice reads as a
 single working contractor ("I check this against the address before
 quoting"), not a team byline.
 

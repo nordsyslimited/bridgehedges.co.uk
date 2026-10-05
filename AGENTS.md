@@ -62,7 +62,7 @@ See `TEMPLATES/how-to.md` for the full contract. This site's assigned structural
 - No tracking scripts beyond the existing GA4 gtag snippet without asking first.
 - No third-party chat widgets.
 - Do not clone another ring site's how-to structure onto this one, see "Repo family" above.
-- Do not add per-article named-author variation beyond the established `Richard Lim` / `Bridge Hedges & Tree Services` JSON-LD pattern, no fabricated real-person schema beyond what's already in use.
+- Do not add per-article named-author variation beyond the established site-name Organization JSON-LD author pattern, no fabricated real-person schema beyond what's already in use.
 - Do not invent specific statistics (council fees, exact conservation-area boundaries) that haven't been verified against a real source. Reference the Act/guidance by name instead, or say "check the council's current figure."
 - Do not revive the Broadstairs-derived coastal content this site was scaffolded from (salt-wind species, herring gulls, Thanet Coast SSSI, Viking Bay etc.), Bridge is an inland Nailbourne-valley/North Downs village, not a coastal town.
 
@@ -72,3 +72,7 @@ See `TEMPLATES/how-to.md` for the full contract. This site's assigned structural
 - Template contract: `TEMPLATES/how-to.md`
 - Config: `config/secrets.php` (git-ignored, real key present in the deployed working copy), `config/secrets.example.php` (committed template)
 - Sister sites (reference pattern, not to be copied verbatim): `E:/Ai/Codex/chathamhedges.co.uk/AGENTS.md`, `E:/Ai/Codex/littlebournehedges.co.uk/AGENTS.md` (Littlebourne is the geographically nearest sister site to Bridge)
+
+## Published-copy rule (Richard 2026-10-05)
+
+Never write the parent company name, owner/founder/operator/"run by"/"owned by" statements, company or registration lines, or any reference to a network, ring, sister sites or common ownership into any public page (footer, about, areas, how-to, llms.txt, JSON-LD). Footer = site name, copyright year, privacy and sitemap links, contact. JSON-LD author = the site Organization, never a named person. Editorial links to a neighbouring town's site are fine if they do not describe a network.

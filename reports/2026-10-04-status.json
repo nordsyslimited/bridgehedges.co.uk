@@ -1,0 +1,30 @@
+{
+  "run_date": "2026-10-04",
+  "run_type": "nightly-content",
+  "status": "success",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "escallonia-hedge-pruning-video-bridge",
+      "url": "https://bridgehedges.co.uk/how-to/escallonia-hedge-pruning-video-bridge.html",
+      "title": "Escallonia hedge pruning: a video companion for Bridge, Kent.",
+      "category": "species-care",
+      "video_id": "Z3VSHFAw-E0",
+      "video_title": "Pruning Escallonia",
+      "video_channel": "Burncoose Nurseries",
+      "video_url": "https://www.youtube.com/watch?v=Z3VSHFAw-E0",
+      "video_verified": true,
+      "video_verification_method": "search-result-cross-referencing (YouTube egress blocked from Anthropic infra, documented fallback used; additionally cross-referenced against Burncoose's own escallonia care guide page at burncoose.co.uk/site/content.cfm?con_id=83161)",
+      "video_companion_structure_followed": true,
+      "date_published": "2026-10-04"
+    }
+  ],
+  "files_modified": [
+    "how-to/escallonia-hedge-pruning-video-bridge.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "reports/2026-10-04-content.md",
+    "reports/2026-10-04-status.json"
+  ],
+  "errors": []
+}
