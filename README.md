@@ -21,8 +21,8 @@ Plain static HTML. No framework. No build step.
 ## Deploy
 Static HTML deploy, addon domain on Krystal 3dbee cPanel, FTPS via UAPI-provisioned account. GitHub Actions (`SamKirkland/FTP-Deploy-Action@v4.3.5`) deploys on push to `main`. Contact form uses `contact-submit.php` to the Resend API.
 
-## GA4
-See any page's gtag snippet for the current measurement ID (own property, provisioned at launch, not a placeholder).
+## Analytics
+No Google Analytics. Visit counting is NordAnalytics (first-party, cookieless): `/assets/js/analytics.js`, included at the end of every page.
 
 ## Content sources
 See `AGENTS.md` for branding/voice rules and `INGESTION.md` + `TEMPLATES/how-to.md` for the video-companion-led content pipeline. Real Bridge/Nailbourne-valley facts (Nailbourne winterbourne, Watling Street, Bifrons Park CA, Canterbury City Council, neighbouring villages) were verified via web search at build time, 20 September 2026.

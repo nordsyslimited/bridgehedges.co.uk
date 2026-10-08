@@ -1,5 +1,13 @@
 # Agent / Contributor Notes
 
+## Analytics, fonts and cookies (do not undo)
+
+- This site has NO Google Analytics, NO gtag or dataLayer snippet, NO Google Fonts links and NO cookie banner or cookie-consent script. They were removed deliberately on 8 October 2026. Do not add any of them back, on any page, template, generator or sample snippet, and do not add any other third-party script, font, image host or tracker.
+- Visit counting is NordAnalytics (first-party, cookieless). Every page loads `<script src="/assets/js/analytics.js?v=20261008" defer></script>` as the last element before `</body>`. That one file adds the footer links ("How we count visits", "Don't count my visits") and loads the counter. Copy the head, the footer and that script line from an existing page unchanged. Every new page must include it (redirect stubs with a meta refresh excepted).
+- Fonts are self-hosted: pages link `<link rel="stylesheet" href="/assets/fonts.css">` where a Google Fonts link used to be. Copy it from an existing page.
+- Audits: do NOT flag the absence of Google Analytics, a GA4 ID, gtag, consent mode or a cookie banner, and do NOT restore any of them. Older reports and notes that mention GA4 are out of date. DO flag and remove any page containing googletagmanager.com, gtag(, dataLayer, fonts.googleapis.com, fonts.gstatic.com or cookie-consent, and flag any non-redirect page missing the analytics.js script line.
+- `/privacy.html` carries the approved "Website statistics" section (id `website-statistics`). Keep its wording unchanged.
+
 Ground rules for any future AI assistant or human contributor working on this site.
 
 ## Stack
@@ -17,9 +25,9 @@ This is one of roughly 30 sister sites in a Kent hedge-trimming ring (broadstair
 ## Branding
 
 - Palette: navy `#1e2f45` (headers/hero/footer), navy-deep tones `#3e5766` / `#2b3f4d`, gold/brass accent `#b58a44`, cream/sand `#f6f2ea` / `#ecdfc7`. Shared with several sibling sites in the ring, this is the "Kent chalk downland" palette variant, not a coastal one.
-- Fonts: Libre Caslon Text (headings/display) + Source Sans 3 (body/UI), Google Fonts.
+- Fonts: Libre Caslon Text (headings/display) + Source Sans 3 (body/UI), self-hosted fonts (/assets/fonts.css).
 - Logo: inline SVG favicon data URI (navy square, gold hedge-arc mark), reuse the existing one, do not invent a new one.
-- GA4: measurement ID set in every page's gtag snippet, see `index.html` for the current value.
+- Analytics: none from Google. NordAnalytics (first-party, cookieless) is loaded by `/assets/js/analytics.js`, included at the end of every page (see the rule at the top of this file).
 - Phone/WhatsApp: `07763 100 477` (shared NordSys contact number). Email: `hello@bridgehedges.co.uk`. Area: Bridge CT4, covering the Nailbourne valley villages (Patrixbourne, Bekesbourne, Bishopsbourne, Lower Hardres, Barham, Kingston).
 - Topbar tagline: "Considered hedge work on the old Roman road." (Bridge sits on the old Watling Street, the London-Dover Roman road; this is this site's own line, do not reuse a sibling site's tagline).
 
@@ -59,7 +67,7 @@ See `TEMPLATES/how-to.md` for the full contract. This site's assigned structural
 
 - No frameworks (React, Vue, Tailwind, Next, etc.).
 - No build step. No npm dependencies.
-- No tracking scripts beyond the existing GA4 gtag snippet without asking first.
+- No tracking scripts and no third-party fonts or images. Visit counting is the NordAnalytics script already on every page; do not add anything else.
 - No third-party chat widgets.
 - Do not clone another ring site's how-to structure onto this one, see "Repo family" above.
 - Do not add per-article named-author variation beyond the established site-name Organization JSON-LD author pattern, no fabricated real-person schema beyond what's already in use.
