@@ -84,3 +84,7 @@ See `TEMPLATES/how-to.md` for the full contract. This site's assigned structural
 ## Published-copy rule (Richard 2026-10-05)
 
 Never write the parent company name, owner/founder/operator/"run by"/"owned by" statements, company or registration lines, or any reference to a network, ring, sister sites or common ownership into any public page (footer, about, areas, how-to, llms.txt, JSON-LD). Footer = site name, copyright year, privacy and sitemap links, contact. JSON-LD author = the site Organization, never a named person. Editorial links to a neighbouring town's site are fine if they do not describe a network.
+
+## Source lines: no process wording (do not undo)
+
+Published source credits must read like an honest reference list, never like a description of how the page was produced. Never write any of these on a public page: "egress", "proxy", "blocked", "generation environment", "INGESTION.md", "AGENTS.md", "web search", "cross-referenced via", "confirmed to exist via". If a source could not be opened, simply leave it out of the list or cite a source you did read. The only acceptable wording is plain, e.g. "checked against current sources". Audits must flag and rewrite any page that contains these phrases.
