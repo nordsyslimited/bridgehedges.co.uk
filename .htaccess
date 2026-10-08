@@ -33,3 +33,11 @@ ErrorDocument 404 /404.html
   Header set Permissions-Policy "geolocation=(), microphone=(), camera=()"
   Header set Strict-Transport-Security "max-age=31536000; includeSubDomains"
 </IfModule>
+
+# Internal files: never public (do not remove)
+<IfModule mod_alias.c>
+  RedirectMatch 404 (?i)^/(AGENTS|INGESTION|README|DEPLOYMENT|CLAUDE|GITHUB-[A-Z-]+)\.(md|html|pdf)$
+  RedirectMatch 404 (?i)^/(scripts|TEMPLATES|reports|docs|config|\.github|\.claude|_scratch|_notes|node_modules)(/|$)
+  RedirectMatch 404 (?i)^/status[^/]*\.json$
+  RedirectMatch 404 (?i)\.(py|mjs|sh|md|env|example)$
+</IfModule>
