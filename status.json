@@ -3,14 +3,14 @@
   "auditStatus": "issues",
   "issueCount": 3,
   "note": "3 needs-review (all persistent): (1) coastal/Broadstairs content in 6 services/tree pages; (2) missing og:type/title/description/url on 14 indexable non-article pages; (3) YouTube embed live-check blocked by proxy. Auto-fixed: sitemap lastmod dates synced to git log (30 entries corrected).",
-  "lastNightlyContentAt": "2026-10-08",
+  "lastNightlyContentAt": "2026-10-09",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 19,
-  "lastSlug": "forsythia-hedge-pruning-video-bridge",
+  "articlesShipped": 20,
+  "lastSlug": "box-hedge-trimming-technique-video-bridge",
   "lastVideo": {
-    "id": "2ZCFyc9qEXo",
-    "title": "When And How To Prune Your Forsythia Shrub With David Domoney",
-    "channel": "David Domoney",
-    "channelUrl": "https://www.youtube.com/watch?v=2ZCFyc9qEXo"
+    "id": "mNcDVNsdEAo",
+    "title": "How to Trim a Box Shrub",
+    "channel": "Pots & Trowels (Martin Fish)",
+    "channelUrl": "https://www.youtube.com/watch?v=mNcDVNsdEAo"
   }
 }
