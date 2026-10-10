@@ -3,14 +3,15 @@
   "auditStatus": "issues",
   "issueCount": 3,
   "note": "3 needs-review (all persistent): (1) coastal/Broadstairs content in 6 services/tree pages; (2) missing og:type/title/description/url on 14 indexable non-article pages; (3) YouTube embed live-check blocked by proxy. No auto-fixes required today.",
-  "lastNightlyContentAt": "2026-10-09",
+  "lastNightlyContentAt": "2026-10-10",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 20,
-  "lastSlug": "box-hedge-trimming-technique-video-bridge",
+  "articlesShipped": 21,
+  "lastSlug": "berberis-hedge-pruning-video-bridge",
   "lastVideo": {
-    "id": "mNcDVNsdEAo",
-    "title": "How to Trim a Box Shrub",
-    "channel": "Pots & Trowels (Martin Fish)",
-    "channelUrl": "https://www.youtube.com/watch?v=mNcDVNsdEAo"
-  }
+    "id": "doB_HGykkdo",
+    "title": "How to Prune Berberis",
+    "channel": "The Gardening Tutor",
+    "channelUrl": "https://www.youtube.com/watch?v=doB_HGykkdo"
+  },
+  "reportFile": "reports/2026-10-10-content.md"
 }
