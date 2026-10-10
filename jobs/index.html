@@ -29,7 +29,7 @@
 
 <section><div class="prose">
 <div id="jobs-list">
-<p class="muted">Loading recent jobs…</p>
+<p class="muted">Loading recent jobs…</p><noscript><p><a href="/jobs/2026-10-10-patrixbourne-evergreen-hedge-restored-line.html">Leaning evergreen hedge brought back to a clean line, Patrixbourne</a></p></noscript>
 </div>
 
 <div id="jobs-empty" style="display: none;">
@@ -57,7 +57,7 @@ fetch('/jobs/jobs.json')
         <div class="job-date">${j.dateDisplay}</div>
         <div>
           <div class="job-where">${j.where}</div>
-          <h3>${j.title}</h3>
+          <h3>${j.url ? '<a href="' + j.url + '">' + j.title + '</a>' : j.title}</h3>
           <p>${j.summary}</p>
         </div>
         <div class="price">${j.price || ''}</div>

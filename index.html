@@ -278,7 +278,7 @@ fetch('/jobs/jobs.json')
         <div class="job-date">${j.dateDisplay}</div>
         <div>
           <div class="job-where">${j.where}</div>
-          <h3>${j.title}</h3>
+          <h3>${j.url ? '<a href="' + j.url + '">' + j.title + '</a>' : j.title}</h3>
           <p>${j.summary}</p>
         </div>
         <div class="price">${j.price || ''}</div>
