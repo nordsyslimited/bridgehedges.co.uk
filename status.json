@@ -2,16 +2,16 @@
   "lastAuditAt": "2026-10-10T07:30:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "3 needs-review (all persistent): (1) coastal/Broadstairs content in 6 services/tree pages; (2) missing og:type/title/description/url on 15 non-article pages; (3) YouTube embed live-check blocked by proxy. No auto-fixes required today. New berberis article passes all checks.",
-  "lastNightlyContentAt": "2026-10-10",
+  "note": "3 needs-review (all persistent): (1) coastal/Broadstairs content in 6 services/tree pages; (2) missing og:type/title/description/url on 15 non-article pages; (3) YouTube embed live-check blocked by proxy. No auto-fixes required today. New griselinia article passes all checks.",
+  "lastNightlyContentAt": "2026-10-11",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 21,
-  "lastSlug": "berberis-hedge-pruning-video-bridge",
+  "articlesShipped": 22,
+  "lastSlug": "griselinia-hedge-pruning-video-bridge",
   "lastVideo": {
-    "id": "doB_HGykkdo",
-    "title": "How to Prune Berberis",
-    "channel": "The Gardening Tutor",
-    "channelUrl": "https://www.youtube.com/watch?v=doB_HGykkdo"
+    "id": "SQh-yzgqdlM",
+    "title": "When is the best time to hard prune a Griselinia hedge?",
+    "channel": "Steve Bradley (RHS M.Hort.)",
+    "channelUrl": "https://www.youtube.com/watch?v=SQh-yzgqdlM"
   },
-  "reportFile": "reports/2026-10-10-audit.md"
+  "reportFile": "reports/2026-10-11-content.md"
 }
