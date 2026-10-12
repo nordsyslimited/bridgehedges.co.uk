@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-10-11T07:30:00Z",
+  "lastAuditAt": "2026-10-12T07:45:00Z",
   "auditStatus": "issues",
-  "issueCount": 3,
-  "note": "3 needs-review (all persistent): (1) coastal/Broadstairs content in 6 services/tree pages incl. crown-reduction meta desc; (2) missing og:type/title/description/url on 15 non-article pages; (3) YouTube live-check blocked by proxy. No auto-fixes required today. New griselinia article (22nd) passes all checks.",
+  "issueCount": 2,
+  "note": "2 persistent needs-review: (1) coastal/Broadstairs content in 5 services/tree pages; (2) YouTube live-check blocked by proxy. Auto-fixed: 33 stale sitemap lastmod dates reconciled against git log.",
   "lastNightlyContentAt": "2026-10-12",
   "lastNightlyContentStatus": "success",
   "articlesShipped": 23,
@@ -13,5 +13,5 @@
     "channel": "RJL Gardens",
     "channelUrl": "https://www.youtube.com/watch?v=gyhRxRdFERo"
   },
-  "reportFile": "reports/2026-10-12-content.md"
+  "reportFile": "reports/2026-10-12-audit.md"
 }
