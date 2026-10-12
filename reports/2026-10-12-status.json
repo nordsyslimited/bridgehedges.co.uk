@@ -1,0 +1,32 @@
+{
+  "run_date": "2026-10-12",
+  "run_type": "nightly-content",
+  "status": "success",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "lonicera-nitida-hedge-renovation-video-bridge",
+      "url": "https://bridgehedges.co.uk/how-to/lonicera-nitida-hedge-renovation-video-bridge.html",
+      "title": "Lonicera nitida hedge renovation: a video companion for Bridge, Kent.",
+      "category": "reduction",
+      "video_id": "gyhRxRdFERo",
+      "video_title": "Hedge RENOVATION, Trimming an old Hedge that Needs REVITALISING",
+      "video_channel": "RJL Gardens",
+      "video_url": "https://www.youtube.com/watch?v=gyhRxRdFERo",
+      "video_verified": true,
+      "video_verification_method": "web-search-cross-referencing",
+      "video_companion_structure_followed": true,
+      "date_published": "2026-10-12"
+    }
+  ],
+  "files_modified": [
+    "how-to/lonicera-nitida-hedge-renovation-video-bridge.html",
+    "how-to/index.html",
+    "how-to/box-blight-box-tree-moth-video-bridge.html",
+    "sitemap.xml",
+    "reports/2026-10-12-content.md",
+    "reports/2026-10-12-status.json",
+    "status.json"
+  ],
+  "errors": []
+}

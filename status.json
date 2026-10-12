@@ -3,15 +3,15 @@
   "auditStatus": "issues",
   "issueCount": 3,
   "note": "3 needs-review (all persistent): (1) coastal/Broadstairs content in 6 services/tree pages incl. crown-reduction meta desc; (2) missing og:type/title/description/url on 15 non-article pages; (3) YouTube live-check blocked by proxy. No auto-fixes required today. New griselinia article (22nd) passes all checks.",
-  "lastNightlyContentAt": "2026-10-11",
+  "lastNightlyContentAt": "2026-10-12",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 22,
-  "lastSlug": "griselinia-hedge-pruning-video-bridge",
+  "articlesShipped": 23,
+  "lastSlug": "lonicera-nitida-hedge-renovation-video-bridge",
   "lastVideo": {
-    "id": "SQh-yzgqdlM",
-    "title": "When is the best time to hard prune a Griselinia hedge?",
-    "channel": "Steve Bradley (RHS M.Hort.)",
-    "channelUrl": "https://www.youtube.com/watch?v=SQh-yzgqdlM"
+    "id": "gyhRxRdFERo",
+    "title": "Hedge RENOVATION, Trimming an old Hedge that Needs REVITALISING",
+    "channel": "RJL Gardens",
+    "channelUrl": "https://www.youtube.com/watch?v=gyhRxRdFERo"
   },
-  "reportFile": "reports/2026-10-11-audit.md"
+  "reportFile": "reports/2026-10-12-content.md"
 }
