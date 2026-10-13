@@ -1,8 +1,8 @@
 {
-  "lastAuditAt": "2026-10-12T07:45:00Z",
+  "lastAuditAt": "2026-10-13T07:30:00Z",
   "auditStatus": "issues",
   "issueCount": 2,
-  "note": "2 persistent needs-review: (1) coastal/Broadstairs content in 5 services/tree pages; (2) YouTube live-check blocked by proxy. Auto-fixed: 33 stale sitemap lastmod dates reconciled against git log.",
+  "note": "2 persistent needs-review: (1) coastal/Broadstairs content in 6 services/tree pages; (2) YouTube live-check blocked by proxy. Auto-fixed: 21 stale sitemap lastmod dates (fact-check pass on 2026-10-12 ran after yesterday's audit). New article mixed-wildlife-hedge-planting passes all checks.",
   "lastNightlyContentAt": "2026-10-13",
   "lastNightlyContentStatus": "success",
   "articlesShipped": 24,
@@ -13,5 +13,5 @@
     "channel": "Heathwood Nurseries",
     "channelUrl": "https://www.youtube.com/watch?v=oN_D3v9YQ8s"
   },
-  "reportFile": "reports/2026-10-12-audit.md"
+  "reportFile": "reports/2026-10-13-audit.md"
 }
