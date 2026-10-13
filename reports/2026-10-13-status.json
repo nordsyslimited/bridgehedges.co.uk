@@ -1,0 +1,32 @@
+{
+  "run_date": "2026-10-13",
+  "run_type": "nightly-content",
+  "status": "success",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "mixed-wildlife-hedge-planting-video-bridge",
+      "url": "https://bridgehedges.co.uk/how-to/mixed-wildlife-hedge-planting-video-bridge.html",
+      "title": "Planting a mixed wildlife hedge (cell-grown plants): a video companion for Bridge, Kent.",
+      "category": "planting",
+      "video_id": "oN_D3v9YQ8s",
+      "video_title": "How to plant a Mixed Native Hedge by Heathwood Nurseries",
+      "video_channel": "Heathwood Nurseries",
+      "video_url": "https://www.youtube.com/watch?v=oN_D3v9YQ8s",
+      "video_verified": true,
+      "video_verification_method": "web-search-cross-referencing",
+      "video_companion_structure_followed": true,
+      "date_published": "2026-10-13"
+    }
+  ],
+  "files_modified": [
+    "how-to/mixed-wildlife-hedge-planting-video-bridge.html",
+    "how-to/index.html",
+    "how-to/planting-bare-root-hedge-north-downs-chalk-bridge.html",
+    "sitemap.xml",
+    "reports/2026-10-13-content.md",
+    "reports/2026-10-13-status.json",
+    "status.json"
+  ],
+  "errors": []
+}
