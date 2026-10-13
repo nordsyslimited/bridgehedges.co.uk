@@ -1,0 +1,30 @@
+{
+  "run_date": "2026-10-08",
+  "run_type": "nightly-content",
+  "status": "success",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "forsythia-hedge-pruning-video-bridge",
+      "url": "https://bridgehedges.co.uk/how-to/forsythia-hedge-pruning-video-bridge.html",
+      "title": "Forsythia hedge pruning: a video companion for Bridge, Kent.",
+      "category": "species-care",
+      "video_id": "2ZCFyc9qEXo",
+      "video_title": "When And How To Prune Your Forsythia Shrub With David Domoney",
+      "video_channel": "David Domoney",
+      "video_url": "https://www.youtube.com/watch?v=2ZCFyc9qEXo",
+      "video_verified": true,
+      "video_verification_method": "web-search-cross-referencing",
+      "video_companion_structure_followed": true,
+      "date_published": "2026-10-08"
+    }
+  ],
+  "files_modified": [
+    "how-to/forsythia-hedge-pruning-video-bridge.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "reports/2026-10-08-content.md",
+    "reports/2026-10-08-status.json"
+  ],
+  "errors": []
+}
