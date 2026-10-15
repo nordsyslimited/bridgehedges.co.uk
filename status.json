@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-10-13T07:30:00Z",
+  "lastAuditAt": "2026-10-15T07:30:00Z",
   "auditStatus": "issues",
-  "issueCount": 2,
-  "note": "2 persistent needs-review: (1) coastal/Broadstairs content in 6 services/tree pages; (2) YouTube live-check blocked by proxy. Auto-fixed: 21 stale sitemap lastmod dates (fact-check pass on 2026-10-12 ran after yesterday's audit). New article mixed-wildlife-hedge-planting passes all checks.",
+  "issueCount": 3,
+  "note": "3 needs-review: (1) coastal/Broadstairs content in 6 services/tree pages (persistent); (2) missing yt-play buttons in 2 how-to articles (lonicera-nitida, planting-bare-root); (3) YouTube live-check proxy-blocked. Auto-fixed: sitemap missing entries for hedge-planting.html and hedge-removal.html (lastmod 2026-09-20).",
   "lastNightlyContentAt": "2026-10-13",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 24,
-  "lastSlug": "mixed-wildlife-hedge-planting-video-bridge",
+  "articlesShipped": 26,
+  "lastSlug": "field-maple-hedge-planting-video-bridge",
   "lastVideo": {
-    "id": "oN_D3v9YQ8s",
-    "title": "How to plant a Mixed Native Hedge by Heathwood Nurseries",
+    "id": "ydKEZ46Jriw",
+    "title": "How to plant a Field Maple hedge (Acer campestre)",
     "channel": "Heathwood Nurseries",
-    "channelUrl": "https://www.youtube.com/watch?v=oN_D3v9YQ8s"
+    "channelUrl": "https://www.youtube.com/watch?v=ydKEZ46Jriw"
   },
-  "reportFile": "reports/2026-10-13-audit.md"
+  "reportFile": "reports/2026-10-15-audit.md"
 }
