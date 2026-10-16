@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-10-15T07:30:00Z",
+  "lastAuditAt": "2026-10-16T07:35:00Z",
   "auditStatus": "issues",
   "issueCount": 3,
-  "note": "3 needs-review: (1) coastal/Broadstairs content in 6 services/tree pages (persistent); (2) missing yt-play buttons in 2 how-to articles (lonicera-nitida, planting-bare-root); (3) YouTube live-check proxy-blocked. Auto-fixed: sitemap missing entries for hedge-planting.html and hedge-removal.html (lastmod 2026-09-20).",
-  "lastNightlyContentAt": "2026-10-13",
+  "note": "3 needs-review: (1) planting-bare-root missing yt-play button (video removed 2026-10-14, callout heading orphaned, needs replacement video or restructure); (2) coastal/Broadstairs content in all 6 services/tree pages (persistent); (3) YouTube live-check proxy-blocked, 27 videos unverified. Auto-fixed: nothing — all checks clean.",
+  "lastNightlyContentAt": "2026-10-16",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 26,
-  "lastSlug": "field-maple-hedge-planting-video-bridge",
+  "articlesShipped": 27,
+  "lastSlug": "mahonia-hedge-pruning-burncoose-video-bridge",
   "lastVideo": {
-    "id": "ydKEZ46Jriw",
-    "title": "How to plant a Field Maple hedge (Acer campestre)",
-    "channel": "Heathwood Nurseries",
-    "channelUrl": "https://www.youtube.com/watch?v=ydKEZ46Jriw"
+    "id": "ZODvk_vDbUY",
+    "title": "Pruning Mahonia",
+    "channel": "Burncoose Nurseries",
+    "channelUrl": "https://www.youtube.com/watch?v=ZODvk_vDbUY"
   },
-  "reportFile": "reports/2026-10-15-audit.md"
+  "reportFile": "reports/2026-10-16-audit.md"
 }
