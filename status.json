@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-10-17T07:00:00Z",
+  "lastAuditAt": "2026-10-18T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 4,
-  "note": "4 needs-review: (1) lonicera-nitida orphaned Watch-first callout — no yt-play button, video removed (new today); (2) planting-bare-root same orphaned callout (persistent); (3) coastal/Broadstairs content in 5 services/tree pages (persistent); (4) YouTube video accessibility unverifiable — proxy blocks curl checks (persistent env limitation). No auto-fixes applied: all automated checks clean.",
-  "lastNightlyContentAt": "2026-10-17",
+  "issueCount": 5,
+  "note": "5 needs-review: (1) lonicera-nitida orphaned Watch-first callout, video gyhRxRdFERo unverifiable (persistent); (2) planting-bare-root same orphaned callout, video qDJc9rqCAY4 unverifiable (persistent); (3) services/tree coastal/Broadstairs content in index.html and pruning.html (persistent); (4) highways-act article: missing video companion, title suffix and uses @graph JSON-LD — template violations (new, shipped 2026-10-17); (5) YouTube video accessibility unverifiable via proxy (persistent env limitation). No auto-fixes applied: all automated checks clean.",
+  "reportFile": "reports/2026-10-18-audit.md",
+  "lastNightlyContentAt": "2026-10-18",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 28,
-  "lastSlug": "copper-beech-hedge-planting-video-bridge",
+  "articlesShipped": 29,
+  "lastSlug": "hazel-hedge-management-coppicing-video-bridge",
   "lastVideo": {
-    "id": "dda-GGCnOfE",
-    "title": "How to plant a Copper Beech Tree or Hedge by Heathwood Nurseries",
-    "channel": "Heathwood Nurseries",
-    "channelUrl": "https://www.youtube.com/watch?v=dda-GGCnOfE"
-  },
-  "reportFile": "reports/2026-10-17-audit.md"
+    "id": "hXi4IEH4ywY",
+    "title": "Why you need a hazel in your garden | The RHS",
+    "channel": "The RHS",
+    "channelUrl": "https://www.youtube.com/watch?v=hXi4IEH4ywY"
+  }
 }
