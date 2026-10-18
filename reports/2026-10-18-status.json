@@ -1,0 +1,33 @@
+{
+  "run_date": "2026-10-18",
+  "run_type": "nightly-content",
+  "status": "success",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "hazel-hedge-management-coppicing-video-bridge",
+      "url": "https://bridgehedges.co.uk/how-to/hazel-hedge-management-coppicing-video-bridge.html",
+      "title": "Hazel in your garden hedge: a video companion for Bridge, Kent.",
+      "category": "field-boundaries",
+      "video_id": "hXi4IEH4ywY",
+      "video_title": "Why you need a hazel in your garden | The RHS",
+      "video_channel": "The RHS",
+      "video_url": "https://www.youtube.com/watch?v=hXi4IEH4ywY",
+      "video_verified": true,
+      "video_verification_method": "web-search-cross-referencing",
+      "video_companion_structure_followed": true,
+      "date_published": "2026-10-18"
+    }
+  ],
+  "files_modified": [
+    "how-to/hazel-hedge-management-coppicing-video-bridge.html",
+    "how-to/index.html",
+    "how-to/hedge-laying-south-of-england-style-bridge.html",
+    "how-to/mixed-wildlife-hedge-planting-video-bridge.html",
+    "sitemap.xml",
+    "reports/2026-10-18-content.md",
+    "reports/2026-10-18-status.json",
+    "reports/status.json"
+  ],
+  "errors": []
+}
