@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-10-12T07:45:00Z",
+  "lastAuditAt": "2026-10-17T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 2,
-  "note": "2 persistent needs-review: (1) coastal/Broadstairs content in 5 services/tree pages; (2) YouTube live-check blocked by proxy. Auto-fixed: 33 stale sitemap lastmod dates reconciled against git log.",
-  "lastNightlyContentAt": "2026-10-13",
+  "issueCount": 4,
+  "note": "4 needs-review: (1) lonicera-nitida orphaned Watch-first callout — no yt-play button, video removed (new today); (2) planting-bare-root same orphaned callout (persistent); (3) coastal/Broadstairs content in 5 services/tree pages (persistent); (4) YouTube video accessibility unverifiable — proxy blocks curl checks (persistent env limitation). No auto-fixes applied: all automated checks clean.",
+  "lastNightlyContentAt": "2026-10-17",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 24,
-  "lastSlug": "mixed-wildlife-hedge-planting-video-bridge",
+  "articlesShipped": 28,
+  "lastSlug": "copper-beech-hedge-planting-video-bridge",
   "lastVideo": {
-    "id": "oN_D3v9YQ8s",
-    "title": "How to plant a Mixed Native Hedge by Heathwood Nurseries",
+    "id": "dda-GGCnOfE",
+    "title": "How to plant a Copper Beech Tree or Hedge by Heathwood Nurseries",
     "channel": "Heathwood Nurseries",
-    "channelUrl": "https://www.youtube.com/watch?v=oN_D3v9YQ8s"
+    "channelUrl": "https://www.youtube.com/watch?v=dda-GGCnOfE"
   },
-  "reportFile": "reports/2026-10-12-audit.md"
+  "reportFile": "reports/2026-10-17-audit.md"
 }
