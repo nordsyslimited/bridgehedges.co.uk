@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-10-18T07:00:00Z",
+  "lastAuditAt": "2026-10-19T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 5,
-  "note": "5 needs-review: (1) lonicera-nitida orphaned Watch-first callout, video gyhRxRdFERo unverifiable (persistent); (2) planting-bare-root same orphaned callout, video qDJc9rqCAY4 unverifiable (persistent); (3) services/tree coastal/Broadstairs content in index.html and pruning.html (persistent); (4) highways-act article: missing video companion, title suffix and uses @graph JSON-LD — template violations (new, shipped 2026-10-17); (5) YouTube video accessibility unverifiable via proxy (persistent env limitation). No auto-fixes applied: all automated checks clean.",
-  "reportFile": "reports/2026-10-18-audit.md",
+  "issueCount": 4,
+  "note": "4 needs-review: (1) lonicera-nitida orphaned Watch-first callout, video gyhRxRdFERo unverifiable (persistent); (2) planting-bare-root same orphaned callout, video qDJc9rqCAY4 unverifiable (persistent); (3) services/tree coastal/Broadstairs content in index.html and pruning.html (persistent); (4) highways-act article: missing video companion and @graph JSON-LD — template violations (title suffix auto-fixed today). Auto-fixed: highways-act <title> suffix added, sitemap lastmod updated.",
+  "reportFile": "reports/2026-10-19-audit.md",
   "lastNightlyContentAt": "2026-10-18",
   "lastNightlyContentStatus": "success",
   "articlesShipped": 29,
