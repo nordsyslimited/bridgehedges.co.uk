@@ -1,0 +1,26 @@
+{
+  "run_date": "2026-10-20",
+  "run_type": "nightly-content",
+  "status": "success",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "pruning-cherry-laurel-hedge-video-bridge.html",
+      "url": "https://bridgehedges.co.uk/how-to/pruning-cherry-laurel-hedge-video-bridge.html",
+      "title": "Annual Maintenance Trim for a Cherry Laurel Hedge: a Video Companion for Bridge",
+      "video_id": "VK4uNNDCrco",
+      "video_title": "Pruning a laurel hedge - Burncoose Nurseries",
+      "video_channel": "Burncoose Nurseries",
+      "video_verified_via": "search-result-cross-referencing",
+      "category": "species-care",
+      "date_published": "2026-10-20"
+    }
+  ],
+  "files_modified": [
+    "how-to/pruning-cherry-laurel-hedge-video-bridge.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "reports/2026-10-20-content.md",
+    "reports/2026-10-20-status.json"
+  ]
+}
