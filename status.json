@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-10-19T07:00:00Z",
+  "lastAuditAt": "2026-10-20T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 4,
-  "note": "4 needs-review: (1) lonicera-nitida orphaned Watch-first callout, video gyhRxRdFERo unverifiable (persistent); (2) planting-bare-root same orphaned callout, video qDJc9rqCAY4 unverifiable (persistent); (3) services/tree coastal/Broadstairs content in index.html and pruning.html (persistent); (4) highways-act article: missing video companion and @graph JSON-LD — template violations (title suffix auto-fixed today). Auto-fixed: highways-act <title> suffix added, sitemap lastmod updated.",
-  "reportFile": "reports/2026-10-19-audit.md",
-  "lastNightlyContentAt": "2026-10-18",
+  "issueCount": 8,
+  "note": "8 needs-review: (1) lonicera-nitida orphaned Watch-first callout, video gyhRxRdFERo unverifiable (persistent); (2) planting-bare-root same orphaned callout, video qDJc9rqCAY4 unverifiable (persistent); (3) services/tree all 6 pages have Broadstairs/coastal body content and footer (expanded from previous, persistent); (4) highways-act @graph JSON-LD template violation (persistent); (5) highways-act no video companion (persistent); (6) og:type missing from 16 non-how-to pages; (7) video health unverifiable via proxy (persistent); (8) no new orphan/duplicate how-to articles. Auto-fixed: crown-reduction.html meta description removed 'clifftop wind-loading'.",
+  "reportFile": "reports/2026-10-20-audit.md",
+  "lastNightlyContentAt": "2026-10-20",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 29,
-  "lastSlug": "hazel-hedge-management-coppicing-video-bridge",
+  "articlesShipped": 30,
+  "lastSlug": "pruning-cherry-laurel-hedge-video-bridge",
   "lastVideo": {
-    "id": "hXi4IEH4ywY",
-    "title": "Why you need a hazel in your garden | The RHS",
-    "channel": "The RHS",
-    "channelUrl": "https://www.youtube.com/watch?v=hXi4IEH4ywY"
+    "id": "VK4uNNDCrco",
+    "title": "Pruning a laurel hedge - Burncoose Nurseries",
+    "channel": "Burncoose Nurseries",
+    "channelUrl": "https://www.youtube.com/watch?v=VK4uNNDCrco"
   }
 }
