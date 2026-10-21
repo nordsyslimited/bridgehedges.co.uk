@@ -1,0 +1,27 @@
+{
+  "run_date": "2026-10-21",
+  "run_type": "nightly-content",
+  "status": "success",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "choisya-hedge-pruning-video-bridge.html",
+      "url": "https://bridgehedges.co.uk/how-to/choisya-hedge-pruning-video-bridge.html",
+      "title": "Choisya Hedge Pruning: a Video Companion for Bridge",
+      "video_id": "vWGBvk7SxSw",
+      "video_title": "How to Prune Choisya, Pruning Choisya 'Snow Flurries'",
+      "video_channel": "Get Gardening",
+      "video_verified_via": "search-result-cross-referencing",
+      "category": "species-care",
+      "date_published": "2026-10-21"
+    }
+  ],
+  "files_modified": [
+    "how-to/choisya-hedge-pruning-video-bridge.html",
+    "how-to/index.html",
+    "how-to/griselinia-hedge-pruning-video-bridge.html",
+    "sitemap.xml",
+    "reports/2026-10-21-content.md",
+    "reports/2026-10-21-status.json"
+  ]
+}
