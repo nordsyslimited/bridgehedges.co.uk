@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-10-20T07:00:00Z",
+  "lastAuditAt": "2026-10-21T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 8,
-  "note": "8 needs-review: (1) lonicera-nitida orphaned Watch-first callout, video gyhRxRdFERo unverifiable (persistent); (2) planting-bare-root same orphaned callout, video qDJc9rqCAY4 unverifiable (persistent); (3) services/tree all 6 pages have Broadstairs/coastal body content and footer (expanded from previous, persistent); (4) highways-act @graph JSON-LD template violation (persistent); (5) highways-act no video companion (persistent); (6) og:type missing from 16 non-how-to pages; (7) video health unverifiable via proxy (persistent); (8) no new orphan/duplicate how-to articles. Auto-fixed: crown-reduction.html meta description removed 'clifftop wind-loading'.",
-  "reportFile": "reports/2026-10-20-audit.md",
-  "lastNightlyContentAt": "2026-10-20",
+  "issueCount": 7,
+  "note": "7 needs-review (all persistent): (1) lonicera-nitida orphaned Watch-first callout, video gyhRxRdFERo unverifiable; (2) planting-bare-root orphaned callout, video qDJc9rqCAY4 unverifiable; (3) services/tree 5/6 pages have Broadstairs/coastal body content; (4) highways-act @graph JSON-LD template violation; (5) highways-act no video companion; (6) og:type missing from 16 non-how-to pages; (7) video health unverifiable via proxy. Auto-fixed: nothing. New article: choisya-hedge-pruning-video-bridge.html — fully compliant.",
+  "reportFile": "reports/2026-10-21-audit.md",
+  "lastNightlyContentAt": "2026-10-21",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 30,
-  "lastSlug": "pruning-cherry-laurel-hedge-video-bridge",
+  "articlesShipped": 32,
+  "lastSlug": "choisya-hedge-pruning-video-bridge",
   "lastVideo": {
-    "id": "VK4uNNDCrco",
-    "title": "Pruning a laurel hedge - Burncoose Nurseries",
-    "channel": "Burncoose Nurseries",
-    "channelUrl": "https://www.youtube.com/watch?v=VK4uNNDCrco"
+    "id": "vWGBvk7SxSw",
+    "title": "How to Prune Choisya, Pruning Choisya 'Snow Flurries'",
+    "channel": "Get Gardening",
+    "channelUrl": "https://www.youtube.com/watch?v=vWGBvk7SxSw"
   }
 }
