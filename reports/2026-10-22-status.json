@@ -1,0 +1,27 @@
+{
+  "run_date": "2026-10-22",
+  "run_type": "nightly-content",
+  "status": "success",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "rosa-rugosa-hedge-pruning-rhs-video-bridge.html",
+      "url": "https://bridgehedges.co.uk/how-to/rosa-rugosa-hedge-pruning-rhs-video-bridge.html",
+      "title": "Rosa Rugosa Hedge Pruning: a Video Companion for Bridge",
+      "video_id": "BDHe1cYnTYw",
+      "video_title": "Pruning rugosa roses with Ian le Gros of RHS Hyde Hall",
+      "video_channel": "Royal Horticultural Society",
+      "video_verified_via": "search-result-cross-referencing",
+      "category": "species-care",
+      "date_published": "2026-10-22"
+    }
+  ],
+  "files_modified": [
+    "how-to/rosa-rugosa-hedge-pruning-rhs-video-bridge.html",
+    "how-to/index.html",
+    "how-to/mixed-wildlife-hedge-planting-video-bridge.html",
+    "sitemap.xml",
+    "reports/2026-10-22-content.md",
+    "reports/2026-10-22-status.json"
+  ]
+}
