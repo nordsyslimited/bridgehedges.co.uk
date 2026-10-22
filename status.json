@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-10-21T07:00:00Z",
+  "lastAuditAt": "2026-10-22T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 7,
-  "note": "7 needs-review (all persistent): (1) lonicera-nitida orphaned Watch-first callout, video gyhRxRdFERo unverifiable; (2) planting-bare-root orphaned callout, video qDJc9rqCAY4 unverifiable; (3) services/tree 5/6 pages have Broadstairs/coastal body content; (4) highways-act @graph JSON-LD template violation; (5) highways-act no video companion; (6) og:type missing from 16 non-how-to pages; (7) video health unverifiable via proxy. Auto-fixed: nothing. New article: choisya-hedge-pruning-video-bridge.html — fully compliant.",
-  "reportFile": "reports/2026-10-21-audit.md",
-  "lastNightlyContentAt": "2026-10-21",
+  "note": "7 needs-review (all persistent, no new items): (1) lonicera-nitida orphaned Watch-first callout; (2) planting-bare-root orphaned Watch-first callout; (3) services/tree 5/6 pages have Broadstairs/coastal body content; (4) highways-act @graph JSON-LD template violation; (5) highways-act no video companion; (6) og:type missing from 17 non-how-to pages; (7) video health unverifiable via proxy. Auto-fixed: nothing. New article: rosa-rugosa-hedge-pruning-rhs-video-bridge.html — fully compliant.",
+  "reportFile": "reports/2026-10-22-audit.md",
+  "lastNightlyContentAt": "2026-10-22",
   "lastNightlyContentStatus": "success",
-  "articlesShipped": 32,
-  "lastSlug": "choisya-hedge-pruning-video-bridge",
+  "articlesShipped": 33,
+  "lastSlug": "rosa-rugosa-hedge-pruning-rhs-video-bridge",
   "lastVideo": {
-    "id": "vWGBvk7SxSw",
-    "title": "How to Prune Choisya, Pruning Choisya 'Snow Flurries'",
-    "channel": "Get Gardening",
-    "channelUrl": "https://www.youtube.com/watch?v=vWGBvk7SxSw"
+    "id": "BDHe1cYnTYw",
+    "title": "Pruning rugosa roses with Ian le Gros of RHS Hyde Hall",
+    "channel": "RHS / Hyde Hall",
+    "channelUrl": "https://www.youtube.com/watch?v=BDHe1cYnTYw"
   }
 }
