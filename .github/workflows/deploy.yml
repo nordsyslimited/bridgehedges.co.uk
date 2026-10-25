@@ -3,8 +3,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    - cron: '0 4 3-31/4 * *'
 jobs:
   deploy:
+    if: github.event_name != 'push' || !(startsWith(github.event.head_commit.message, 'Nightly') || startsWith(github.event.head_commit.message, 'chore: morning audit') || startsWith(github.event.head_commit.message, 'Merge origin/main'))
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
