@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-10-23T07:00:00Z",
+  "lastAuditAt": "2026-10-25T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 7,
-  "note": "7 needs-review (all persistent, no new items): (1) lonicera-nitida orphaned Watch-first callout; (2) planting-bare-root orphaned Watch-first callout; (3) services/tree all 6 pages have Broadstairs/coastal footer content, pruning.html also in body; (4) highways-act @graph JSON-LD template violation; (5) highways-act no video companion; (6) og:type missing from 18 pages (count corrected from 17, how-to/index.html included); (7) video health unverifiable via proxy. Auto-fixed: nothing. No new article today (nightly content shortfall).",
-  "reportFile": "reports/2026-10-23-audit.md",
-  "lastNightlyContentAt": "2026-10-23",
-  "lastNightlyContentStatus": "shortfall",
-  "articlesShipped": 33,
-  "lastSlug": "rosa-rugosa-hedge-pruning-rhs-video-bridge",
+  "issueCount": 8,
+  "note": "8 needs-review: (1) lonicera-nitida missing yt-play; (2) planting-bare-root missing yt-play; (3) highways-act @graph JSON-LD violation; (4) highways-act no video companion; (5) highways-act JET-RELATED-GUIDES marker (new); (6) services/tree 6 pages with coastal/Broadstairs content; (7) og:type missing from 18 non-article pages; (8) video health unverifiable via proxy. Auto-fixed: nothing. New article today: filling-gaps-hedge-gapping-up-video-bridge.html (clean).",
+  "reportFile": "reports/2026-10-25-audit.md",
+  "lastNightlyContentAt": "2026-10-25",
+  "lastNightlyContentStatus": "ok",
+  "articlesShipped": 35,
+  "lastSlug": "filling-gaps-hedge-gapping-up-video-bridge",
   "lastVideo": {
-    "id": "BDHe1cYnTYw",
-    "title": "Pruning rugosa roses with Ian le Gros of RHS Hyde Hall",
-    "channel": "RHS / Hyde Hall",
-    "channelUrl": "https://www.youtube.com/watch?v=BDHe1cYnTYw"
+    "id": "aAjairrhk4M",
+    "title": "Part 3 - Curing a Gap",
+    "channel": "Moor Meadows",
+    "channelUrl": "https://www.youtube.com/watch?v=aAjairrhk4M"
   }
 }
