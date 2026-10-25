@@ -1,18 +1,19 @@
 {
-  "lastAuditAt": "2026-10-22T07:00:00Z",
-  "auditStatus": "issues",
-  "issueCount": 7,
-  "note": "7 needs-review (all persistent, no new items): (1) lonicera-nitida orphaned Watch-first callout; (2) planting-bare-root orphaned Watch-first callout; (3) services/tree 5/6 pages have Broadstairs/coastal body content; (4) highways-act @graph JSON-LD template violation; (5) highways-act no video companion; (6) og:type missing from 17 non-how-to pages; (7) video health unverifiable via proxy. Auto-fixed: nothing. New article: rosa-rugosa-hedge-pruning-rhs-video-bridge.html — fully compliant.",
-  "reportFile": "reports/2026-10-22-audit.md",
-  "lastNightlyContentAt": "2026-10-23",
-  "lastNightlyContentStatus": "shortfall",
-  "shortfallNote": "YouTube and UK gardening sites DNS-blocked; multiple video IDs found via search cross-referencing but channel provenance unconfirmable. Topics investigated: viburnum tinus, elaeagnus ebbingei, cotoneaster. See reports/2026-10-23-content.md.",
-  "articlesShipped": 33,
-  "lastSlug": "rosa-rugosa-hedge-pruning-rhs-video-bridge",
-  "lastVideo": {
-    "id": "BDHe1cYnTYw",
-    "title": "Pruning rugosa roses with Ian le Gros of RHS Hyde Hall",
-    "channel": "RHS / Hyde Hall",
-    "channelUrl": "https://www.youtube.com/watch?v=BDHe1cYnTYw"
-  }
+  "date": "2026-10-25",
+  "status": "ok",
+  "articles_added": 1,
+  "new_slugs": [
+    "how-to/filling-gaps-hedge-gapping-up-video-bridge.html"
+  ],
+  "video_ids_used": ["aAjairrhk4M"],
+  "total_how_to_articles": 35,
+  "files_changed": [
+    "how-to/filling-gaps-hedge-gapping-up-video-bridge.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "how-to/hedge-laying-south-of-england-style-bridge.html",
+    "how-to/mixed-wildlife-hedge-planting-video-bridge.html",
+    "reports/2026-10-25-content.md",
+    "reports/status.json"
+  ]
 }
