@@ -1,19 +1,13 @@
 {
-  "date": "2026-10-25",
-  "status": "ok",
-  "articles_added": 1,
-  "new_slugs": [
-    "how-to/filling-gaps-hedge-gapping-up-video-bridge.html"
-  ],
-  "video_ids_used": ["aAjairrhk4M"],
-  "total_how_to_articles": 35,
-  "files_changed": [
-    "how-to/filling-gaps-hedge-gapping-up-video-bridge.html",
-    "how-to/index.html",
-    "sitemap.xml",
-    "how-to/hedge-laying-south-of-england-style-bridge.html",
-    "how-to/mixed-wildlife-hedge-planting-video-bridge.html",
-    "reports/2026-10-25-content.md",
-    "reports/status.json"
-  ]
+  "lastRun": "2026-10-27",
+  "lastRunType": "nightly-content",
+  "articlesShipped": 1,
+  "lastArticle": {
+    "slug": "portugal-laurel-hedge-trimming-video-bridge",
+    "url": "https://bridgehedges.co.uk/how-to/portugal-laurel-hedge-trimming-video-bridge.html",
+    "videoId": "SGWwhP9L-Yc",
+    "videoChannel": "Best4Hedging",
+    "datePublished": "2026-10-27"
+  },
+  "status": "ok"
 }
