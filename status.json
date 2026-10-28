@@ -2,16 +2,16 @@
   "lastAuditAt": "2026-10-27T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 8,
-  "note": "8 needs-review (all carried): (1) lonicera-nitida missing yt-play; (2) planting-bare-root missing yt-play; (3) highways-act @graph JSON-LD violation; (4) highways-act no video companion; (5) highways-act JET-RELATED-GUIDES marker; (6) services/tree 6 pages with coastal/Broadstairs content; (7) og:type missing from most non-how-to pages; (8) video health unverifiable via proxy. Auto-fixed: nothing. New article today: portugal-laurel-hedge-trimming-video-bridge.html (clean).",
+  "note": "8 needs-review (all carried): (1) lonicera-nitida missing yt-play; (2) planting-bare-root missing yt-play; (3) highways-act @graph JSON-LD violation; (4) highways-act no video companion; (5) highways-act JET-RELATED-GUIDES marker; (6) services/tree 6 pages with coastal/Broadstairs content; (7) og:type missing from most non-how-to pages; (8) video health unverifiable via proxy. Auto-fixed: nothing. New article today: planting-hornbeam-hedge-video-bridge.html (clean).",
   "reportFile": "reports/2026-10-27-audit.md",
-  "lastNightlyContentAt": "2026-10-27",
+  "lastNightlyContentAt": "2026-10-28",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 37,
-  "lastSlug": "portugal-laurel-hedge-trimming-video-bridge",
+  "articlesShipped": 38,
+  "lastSlug": "planting-hornbeam-hedge-video-bridge",
   "lastVideo": {
-    "id": "SGWwhP9L-Yc",
-    "title": "A focus on Portuguese Laurel : All you need to know about Prunus lusitanica hedging",
-    "channel": "Best4Hedging",
-    "channelUrl": "https://www.youtube.com/watch?v=SGWwhP9L-Yc"
+    "id": "suaFexdyw0E",
+    "title": "How to plant a Hornbeam Tree or Hedge by Heathwood Nurseries",
+    "channel": "Heathwood Nurseries",
+    "channelUrl": "https://www.youtube.com/watch?v=suaFexdyw0E"
   }
 }
