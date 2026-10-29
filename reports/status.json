@@ -1,13 +1,14 @@
 {
-  "lastRun": "2026-10-27",
+  "lastRun": "2026-10-29",
   "lastRunType": "nightly-content",
-  "articlesShipped": 1,
+  "articlesShipped": 0,
   "lastArticle": {
-    "slug": "portugal-laurel-hedge-trimming-video-bridge",
-    "url": "https://bridgehedges.co.uk/how-to/portugal-laurel-hedge-trimming-video-bridge.html",
-    "videoId": "SGWwhP9L-Yc",
-    "videoChannel": "Best4Hedging",
-    "datePublished": "2026-10-27"
+    "slug": "planting-hornbeam-hedge-video-bridge",
+    "url": "https://bridgehedges.co.uk/how-to/planting-hornbeam-hedge-video-bridge.html",
+    "videoId": "suaFexdyw0E",
+    "videoChannel": "Heathwood Nurseries",
+    "datePublished": "2026-10-28"
   },
-  "status": "ok"
+  "status": "no_article_shipped",
+  "note": "Channel-authority verification failed for all candidate videos. youtube.com unreachable; third-party pages that reference primary candidate (Z0NH-vK3Lng, HOW TO PRUNE VIBURNUM TINUS) also outside session allowed hosts. No article shipped per INGESTION.md failure mode."
 }
