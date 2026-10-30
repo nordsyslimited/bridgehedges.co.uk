@@ -1,14 +1,13 @@
 {
-  "lastRun": "2026-10-29",
-  "lastRunType": "nightly-content",
-  "articlesShipped": 0,
+  "lastRun": "2026-10-30",
+  "runType": "nightly-content",
+  "articlesShipped": 1,
   "lastArticle": {
-    "slug": "planting-hornbeam-hedge-video-bridge",
-    "url": "https://bridgehedges.co.uk/how-to/planting-hornbeam-hedge-video-bridge.html",
-    "videoId": "suaFexdyw0E",
-    "videoChannel": "Heathwood Nurseries",
-    "datePublished": "2026-10-28"
+    "slug": "camellia-hedge-pruning-burncoose-video-bridge.html",
+    "url": "https://bridgehedges.co.uk/how-to/camellia-hedge-pruning-burncoose-video-bridge.html",
+    "video": "https://www.youtube.com/watch?v=N4p6AN99J-4",
+    "channel": "Burncoose Nurseries",
+    "datePublished": "2026-10-30"
   },
-  "status": "no_article_shipped",
-  "note": "Channel-authority verification failed for all candidate videos. youtube.com unreachable; third-party pages that reference primary candidate (Z0NH-vK3Lng, HOW TO PRUNE VIBURNUM TINUS) also outside session allowed hosts. No article shipped per INGESTION.md failure mode."
+  "status": "ok"
 }
