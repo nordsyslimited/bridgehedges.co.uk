@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-10-29T10:17:00Z",
+  "lastAuditAt": "2026-10-30T08:30:00Z",
   "auditStatus": "issues",
   "issueCount": 8,
-  "note": "8 needs-review (all carried): (1) lonicera-nitida missing yt-play; (2) planting-bare-root missing yt-play; (3) highways-act @graph JSON-LD violation; (4) highways-act no video companion; (5) highways-act JET-RELATED-GUIDES marker; (6) services/tree 6 pages with coastal/Broadstairs content; (7) og:type missing from non-hub pages; (8) video health unverifiable via proxy. Auto-fixed: sitemap homepage lastmod 2026-10-10→2026-10-17; how-to/ lastmod 2026-10-26→2026-10-28; removed 2 noindex redirect stubs from sitemap.",
-  "reportFile": "reports/2026-10-29-audit.md",
-  "lastNightlyContentAt": "2026-10-29",
+  "note": "8 needs-review: (1) lonicera-nitida missing yt-play button; (2) planting-bare-root missing yt-play button; (3) highways-act @graph JSON-LD violation; (4) highways-act no video companion; (5) highways-act JET-RELATED-GUIDES marker; (6) services/tree 6 pages coastal/Broadstairs content; (7) og:type missing from 16 non-article pages (expanded from 4 noted 2026-10-29); (8) video health unverifiable via proxy. Auto-fixed: how-to/ sitemap lastmod 2026-10-28→2026-10-30.",
+  "reportFile": "reports/2026-10-30-audit.md",
+  "lastNightlyContentAt": "2026-10-30",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 38,
-  "lastSlug": "planting-hornbeam-hedge-video-bridge",
+  "articlesShipped": 39,
+  "lastSlug": "camellia-hedge-pruning-burncoose-video-bridge",
   "lastVideo": {
-    "id": "suaFexdyw0E",
-    "title": "How to plant a Hornbeam Tree or Hedge by Heathwood Nurseries",
-    "channel": "Heathwood Nurseries",
-    "channelUrl": "https://www.youtube.com/watch?v=suaFexdyw0E"
+    "id": "N4p6AN99J-4",
+    "title": "Pruning & Camellia Care - Burncoose Nurseries",
+    "channel": "Burncoose Nurseries",
+    "channelUrl": "https://www.youtube.com/watch?v=N4p6AN99J-4"
   }
 }
