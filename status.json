@@ -4,14 +4,14 @@
   "issueCount": 5,
   "note": "5 needs-review (carried): (1) lonicera-nitida missing yt-play button; (2) planting-bare-root missing yt-play button; (3) highways-act @graph JSON-LD violation + no video companion + JET markers; (4) services/tree 5 pages coastal/Broadstairs content; (5) og:type missing from 16 non-article pages. Auto-fixed today: banned word 'robust' in elaeagnus article.",
   "reportFile": "reports/2026-11-03-audit.md",
-  "lastNightlyContentAt": "2026-11-03",
+  "lastNightlyContentAt": "2026-11-04",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 43,
-  "lastSlug": "elaeagnus-ebbingei-hedge-trimming-video-bridge",
+  "articlesShipped": 45,
+  "lastSlug": "olearia-daisy-bush-pruning-burncoose-video-bridge",
   "lastVideo": {
-    "id": "nWMMSn3O5LE",
-    "title": "Trimming up two elaeagnus shrubs!",
-    "channel": "YouTube",
-    "channelUrl": "https://www.youtube.com/watch?v=nWMMSn3O5LE"
+    "id": "MoR-rrWecVg",
+    "title": "Pruning Olearia scilloniensis - Summer Tips - Burncoose",
+    "channel": "Burncoose Nurseries",
+    "channelUrl": "https://www.youtube.com/watch?v=MoR-rrWecVg"
   }
 }
