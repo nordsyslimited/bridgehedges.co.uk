@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-11-03T00:00:00Z",
+  "lastAuditAt": "2026-11-04T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 5,
-  "note": "5 needs-review (carried): (1) lonicera-nitida missing yt-play button; (2) planting-bare-root missing yt-play button; (3) highways-act @graph JSON-LD violation + no video companion + JET markers; (4) services/tree 5 pages coastal/Broadstairs content; (5) og:type missing from 16 non-article pages. Auto-fixed today: banned word 'robust' in elaeagnus article.",
-  "reportFile": "reports/2026-11-03-audit.md",
+  "note": "5 needs-review (carried): (1) lonicera-nitida missing yt-play button; (2) planting-bare-root missing yt-play button; (3) highways-act @graph JSON-LD violation + no video companion + JET markers; (4) services/tree 5 pages coastal/Broadstairs content; (5) og:type missing from 16 non-article pages. No auto-fixes today.",
+  "reportFile": "reports/2026-11-04-audit.md",
   "lastNightlyContentAt": "2026-11-04",
   "lastNightlyContentStatus": "ok",
   "articlesShipped": 45,
