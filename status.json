@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-11-06T00:00:00Z",
+  "lastAuditAt": "2026-11-07T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 5,
-  "note": "5 needs-review (carried): (1) lonicera-nitida missing yt-play button; (2) planting-bare-root missing yt-play button; (3) highways-act @graph JSON-LD violation + no video companion + JET markers; (4) services/tree 3 pages coastal/Broadstairs language; (5) og:type missing from 16 non-article pages. Auto-fixed today: 13 stale sitemap lastmod dates.",
-  "reportFile": "reports/2026-11-06-audit.md",
-  "lastNightlyContentAt": "2026-11-06",
+  "note": "5 needs-review: (1) lonicera-nitida missing yt-play button; (2) planting-bare-root missing yt-play button; (3) highways-act @graph JSON-LD violation + no video companion + JET markers; (4) services/tree 5 passages coastal/Broadstairs language; (5) YouTube liveness unverifiable (403 from cloud env). Auto-fixed today: 'robust' in killing-brambles + 5 stale sitemap lastmod dates.",
+  "reportFile": "reports/2026-11-07-audit.md",
+  "lastNightlyContentAt": "2026-11-07",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 46,
-  "lastSlug": "rhododendron-pruning-screen-video-bridge",
+  "articlesShipped": 47,
+  "lastSlug": "killing-brambles-hedge-clearance-video-bridge",
   "lastVideo": {
-    "id": "SR71HURlsNM",
-    "title": "Pruning Rhododendron",
+    "id": "vggcIb-r_qQ",
+    "title": "Killing Brambles",
     "channel": "Burncoose Nurseries",
-    "channelUrl": "https://www.youtube.com/watch?v=SR71HURlsNM"
+    "channelUrl": "https://www.youtube.com/watch?v=vggcIb-r_qQ"
   }
 }
