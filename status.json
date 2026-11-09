@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-11-06T00:00:00Z",
+  "lastAuditAt": "2026-11-08T00:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 5,
-  "note": "5 needs-review (carried): (1) lonicera-nitida missing yt-play button; (2) planting-bare-root missing yt-play button; (3) highways-act @graph JSON-LD violation + no video companion + JET markers; (4) services/tree 3 pages coastal/Broadstairs language; (5) og:type missing from 16 non-article pages. Auto-fixed today: 13 stale sitemap lastmod dates.",
-  "reportFile": "reports/2026-11-06-audit.md",
-  "lastNightlyContentAt": "2026-11-06",
+  "issueCount": 4,
+  "note": "4 needs-review: (1) highways-act @graph JSON-LD violation (Article should be flat) + no video companion; (2) lonicera-nitida missing yt-play button (video gyhRxRdFERo); (3) planting-bare-root missing yt-play button (video qDJc9rqCAY4); (4) YouTube liveness unverifiable from cloud. Auto-fixed today: 17 stale sitemap lastmod dates.",
+  "reportFile": "reports/2026-11-08-audit.md",
+  "lastNightlyContentAt": "2026-11-08",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 46,
-  "lastSlug": "rhododendron-pruning-screen-video-bridge",
+  "articlesShipped": 48,
+  "lastSlug": "tall-laurel-hedge-height-reduction-video-bridge",
   "lastVideo": {
-    "id": "SR71HURlsNM",
-    "title": "Pruning Rhododendron",
+    "id": "qhDNXLmASuY",
+    "title": "How to trim a laurel hedge - Burncoose Nurseries",
     "channel": "Burncoose Nurseries",
-    "channelUrl": "https://www.youtube.com/watch?v=SR71HURlsNM"
+    "channelUrl": "https://www.youtube.com/watch?v=qhDNXLmASuY"
   }
 }
