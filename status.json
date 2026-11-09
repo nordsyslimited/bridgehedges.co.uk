@@ -4,14 +4,14 @@
   "issueCount": 4,
   "note": "4 needs-review: (1) highways-act @graph JSON-LD violation (Article should be flat) + no video companion; (2) lonicera-nitida missing yt-play button (video gyhRxRdFERo); (3) planting-bare-root missing yt-play button (video qDJc9rqCAY4); (4) YouTube liveness unverifiable from cloud. Auto-fixed today: 17 stale sitemap lastmod dates.",
   "reportFile": "reports/2026-11-08-audit.md",
-  "lastNightlyContentAt": "2026-11-08",
+  "lastNightlyContentAt": "2026-11-09",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 48,
-  "lastSlug": "tall-laurel-hedge-height-reduction-video-bridge",
+  "articlesShipped": 49,
+  "lastSlug": "ceanothus-pruning-timing-video-bridge",
   "lastVideo": {
-    "id": "qhDNXLmASuY",
-    "title": "How to trim a laurel hedge - Burncoose Nurseries",
-    "channel": "Burncoose Nurseries",
-    "channelUrl": "https://www.youtube.com/watch?v=qhDNXLmASuY"
+    "id": "NjQ-Tx7v1Nc",
+    "title": "When should I prune a Ceanothus?",
+    "channel": "Steve Bradley (RHS M.Hort.)",
+    "channelUrl": "https://www.youtube.com/watch?v=NjQ-Tx7v1Nc"
   }
 }
