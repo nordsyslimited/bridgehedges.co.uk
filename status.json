@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-11-08T00:00:00Z",
+  "lastAuditAt": "2026-11-09T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 4,
-  "note": "4 needs-review: (1) highways-act @graph JSON-LD violation (Article should be flat) + no video companion; (2) lonicera-nitida missing yt-play button (video gyhRxRdFERo); (3) planting-bare-root missing yt-play button (video qDJc9rqCAY4); (4) YouTube liveness unverifiable from cloud. Auto-fixed today: 17 stale sitemap lastmod dates.",
-  "reportFile": "reports/2026-11-08-audit.md",
+  "note": "4 needs-review (all carry-over): (1) highways-act @graph JSON-LD violation + no video companion; (2) lonicera-nitida missing yt-play button (video gyhRxRdFERo); (3) planting-bare-root missing yt-play button (video qDJc9rqCAY4); (4) YouTube liveness unverifiable from cloud. Auto-fixed today: 5 stale sitemap lastmod dates, missing OG tags on how-to/index.html, banned word 'robust' in ceanothus article.",
+  "reportFile": "reports/2026-11-09-audit.md",
   "lastNightlyContentAt": "2026-11-09",
   "lastNightlyContentStatus": "ok",
   "articlesShipped": 49,
