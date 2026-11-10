@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-11-09T00:00:00Z",
+  "lastAuditAt": "2026-11-10T00:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 4,
-  "note": "4 needs-review (all carry-over): (1) highways-act @graph JSON-LD violation + no video companion; (2) lonicera-nitida missing yt-play button (video gyhRxRdFERo); (3) planting-bare-root missing yt-play button (video qDJc9rqCAY4); (4) YouTube liveness unverifiable from cloud. Auto-fixed today: 5 stale sitemap lastmod dates, missing OG tags on how-to/index.html, banned word 'robust' in ceanothus article.",
-  "reportFile": "reports/2026-11-09-audit.md",
+  "issueCount": 5,
+  "note": "5 needs-review: (1) NEW: services/tree pages (all 6) contain Broadstairs-derived coastal content (clifftop bays, St Peter's, Albion Street) — footer and body rewrite required; (2) highways-act @graph JSON-LD violation + no video companion (carry-over); (3) lonicera-nitida missing yt-play button (carry-over); (4) planting-bare-root missing yt-play button (carry-over); (5) YouTube liveness unverifiable from cloud (carry-over). Auto-fixed today: 2 stale sitemap lastmod dates (portugal-laurel, pruning-cherry-laurel → 2026-11-10).",
+  "reportFile": "reports/2026-11-10-audit.md",
   "lastNightlyContentAt": "2026-11-10",
   "lastNightlyContentStatus": "ok",
   "articlesShipped": 50,
