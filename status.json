@@ -4,14 +4,14 @@
   "issueCount": 4,
   "note": "4 needs-review (all carry-over): (1) highways-act @graph JSON-LD violation + no video companion; (2) lonicera-nitida missing yt-play button (video gyhRxRdFERo); (3) planting-bare-root missing yt-play button (video qDJc9rqCAY4); (4) YouTube liveness unverifiable from cloud. Auto-fixed today: 5 stale sitemap lastmod dates, missing OG tags on how-to/index.html, banned word 'robust' in ceanothus article.",
   "reportFile": "reports/2026-11-09-audit.md",
-  "lastNightlyContentAt": "2026-11-09",
+  "lastNightlyContentAt": "2026-11-10",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 49,
-  "lastSlug": "ceanothus-pruning-timing-video-bridge",
+  "articlesShipped": 50,
+  "lastSlug": "bay-laurel-hedge-pruning-video-bridge",
   "lastVideo": {
-    "id": "NjQ-Tx7v1Nc",
-    "title": "When should I prune a Ceanothus?",
-    "channel": "Steve Bradley (RHS M.Hort.)",
-    "channelUrl": "https://www.youtube.com/watch?v=NjQ-Tx7v1Nc"
+    "id": "9oLCWE_FatM",
+    "title": "Pruning bay trees with Lee Bestall",
+    "channel": "Spear & Jackson (presented by Lee Bestall)",
+    "channelUrl": "https://www.youtube.com/watch?v=9oLCWE_FatM"
   }
 }
