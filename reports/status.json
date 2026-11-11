@@ -1,13 +1,13 @@
 {
-  "lastRun": "2026-11-07",
-  "runType": "nightly-content",
+  "lastRun": "2026-11-11",
+  "type": "nightly-content",
   "articlesShipped": 1,
-  "lastArticle": {
-    "slug": "killing-brambles-hedge-clearance-video-bridge.html",
-    "url": "https://bridgehedges.co.uk/how-to/killing-brambles-hedge-clearance-video-bridge.html",
-    "video": "https://www.youtube.com/watch?v=vggcIb-r_qQ",
-    "channel": "Burncoose Nurseries",
-    "datePublished": "2026-11-07"
-  },
-  "status": "ok"
+  "urls": [
+    "https://bridgehedges.co.uk/how-to/magnolia-pruning-video-bridge.html"
+  ],
+  "videoId": "NDb1xYaHSYI",
+  "videoTitle": "Pruning Magnolia - Burncoose Nurseries",
+  "topic": "Magnolia pruning (species care, ornamental boundary specimens)",
+  "status": "success",
+  "notes": "youtube.com and burncoose.co.uk blocked in cloud session network; video verified via search-result cross-referencing per INGESTION.md fallback protocol."
 }
