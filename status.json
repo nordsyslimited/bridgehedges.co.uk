@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-11-11T00:00:00Z",
+  "lastAuditAt": "2026-11-12T00:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 6,
-  "note": "6 needs-review: (1) NEW: missing analytics.js on services/hedge-planting.html + services/hedge-removal.html; (2) services/tree pages (all 6) contain Broadstairs coastal footer text (carry-over); (3) highways-act @graph JSON-LD + FAQPage schema violation + no video companion (carry-over); (4) lonicera-nitida empty Watch-first callout, no yt-play button (carry-over); (5) planting-bare-root empty Watch-first callout, no yt-play button (carry-over); (6) YouTube liveness unverifiable from cloud (carry-over). Auto-fixed today: 21 stale sitemap lastmod dates.",
-  "reportFile": "reports/2026-11-11-audit.md",
-  "lastNightlyContentAt": "2026-11-11",
+  "issueCount": 5,
+  "note": "5 needs-review: (1) services/tree pages (all 6) contain Broadstairs coastal footer/body text (carry-over); (2) highways-act @graph JSON-LD + FAQPage schema violation (carry-over); (3) lonicera-nitida empty Watch-first callout, no yt-play button (carry-over); (4) planting-bare-root empty Watch-first callout, no yt-play button (carry-over); (5) YouTube liveness unverifiable from cloud (carry-over). Auto-fixed today: 2 stale sitemap lastmod dates (lavender, olearia).",
+  "reportFile": "reports/2026-11-12-audit.md",
+  "lastNightlyContentAt": "2026-11-12",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 51,
-  "lastSlug": "magnolia-pruning-video-bridge",
+  "articlesShipped": 52,
+  "lastSlug": "hebe-hedge-pruning-video-bridge",
   "lastVideo": {
-    "id": "NDb1xYaHSYI",
-    "title": "Pruning Magnolia",
-    "channel": "Burncoose Nurseries",
-    "channelUrl": "https://www.youtube.com/watch?v=NDb1xYaHSYI"
+    "id": "eDTp86MFQvE",
+    "title": "How To Rejuvenate / Prune A Hebe, How To Cut Back A Hebe",
+    "channel": "Get Gardening",
+    "channelUrl": "https://www.youtube.com/watch?v=eDTp86MFQvE"
   }
 }
