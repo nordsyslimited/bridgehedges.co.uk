@@ -1,0 +1,26 @@
+{
+  "run_date": "2026-11-12",
+  "run_type": "nightly",
+  "status": "success",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "hebe-hedge-pruning-video-bridge",
+      "url": "https://bridgehedges.co.uk/how-to/hebe-hedge-pruning-video-bridge.html",
+      "title": "Hebe Hedge Pruning: a Video Companion for Bridge, Kent",
+      "video_id": "eDTp86MFQvE",
+      "channel": "Get Gardening",
+      "category": "species-care",
+      "date_published": "2026-11-12"
+    }
+  ],
+  "files_modified": [
+    "how-to/hebe-hedge-pruning-video-bridge.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "how-to/lavender-hedge-pruning-burncoose-video-bridge.html",
+    "how-to/olearia-daisy-bush-pruning-burncoose-video-bridge.html",
+    "reports/2026-11-12-content.md",
+    "reports/2026-11-12-status.json"
+  ]
+}
