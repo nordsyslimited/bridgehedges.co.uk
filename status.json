@@ -4,14 +4,14 @@
   "issueCount": 5,
   "note": "5 needs-review: (1) services/tree pages (all 6) contain Broadstairs coastal footer/body text (carry-over); (2) highways-act @graph JSON-LD + FAQPage schema violation (carry-over); (3) lonicera-nitida empty Watch-first callout, no yt-play button (carry-over); (4) planting-bare-root empty Watch-first callout, no yt-play button (carry-over); (5) YouTube liveness unverifiable from cloud (carry-over). Auto-fixed today: 2 stale sitemap lastmod dates (lavender, olearia).",
   "reportFile": "reports/2026-11-12-audit.md",
-  "lastNightlyContentAt": "2026-11-12",
+  "lastNightlyContentAt": "2026-11-13",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 52,
-  "lastSlug": "hebe-hedge-pruning-video-bridge",
+  "articlesShipped": 53,
+  "lastSlug": "cornus-dogwood-pruning-video-bridge",
   "lastVideo": {
-    "id": "eDTp86MFQvE",
-    "title": "How To Rejuvenate / Prune A Hebe, How To Cut Back A Hebe",
-    "channel": "Get Gardening",
-    "channelUrl": "https://www.youtube.com/watch?v=eDTp86MFQvE"
+    "id": "XuLFs9xw-Ds",
+    "title": "How-to: Prune Dogwoods (Cornus)",
+    "channel": "Crocus.co.uk",
+    "channelUrl": "https://www.youtube.com/watch?v=XuLFs9xw-Ds"
   }
 }
