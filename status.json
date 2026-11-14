@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-11-13T00:00:00Z",
+  "lastAuditAt": "2026-11-14T00:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 6,
-  "note": "6 needs-review (all carry-over): (1) highways-act @graph JSON-LD instead of flat Article; (2) services/tree/index.html \"coastal hedge specialist\" phrase; (3) services/tree/crown-reduction.html \"coastal Monterey pine\" phrasing; (4) lonicera-nitida empty Watch-first callout, no yt-play button; (5) planting-bare-root empty Watch-first callout, no yt-play button; (6) YouTube liveness unverifiable from cloud. Auto-fixed today: 34 stale sitemap lastmod dates.",
-  "reportFile": "reports/2026-11-13-audit.md",
-  "lastNightlyContentAt": "2026-11-13",
+  "issueCount": 5,
+  "note": "5 needs-review: (1) highways-act @graph JSON-LD instead of flat Article; (2) all 5 services/tree pages contain Broadstairs-derived coastal content (seafront, clifftop, Stone Road, Albion Street, 'coast-aware' footer) — expanded from 2 items last run, now confirmed pervasive; (3) lonicera-nitida empty Watch-first callout, no yt-play button; (4) planting-bare-root empty Watch-first callout, no yt-play button; (5) YouTube liveness unverifiable from cloud. No auto-fixes needed today.",
+  "reportFile": "reports/2026-11-14-audit.md",
+  "lastNightlyContentAt": "2026-11-14",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 53,
-  "lastSlug": "cornus-dogwood-pruning-video-bridge",
+  "articlesShipped": 54,
+  "lastSlug": "deutzia-pruning-informal-boundary-video-bridge",
   "lastVideo": {
-    "id": "XuLFs9xw-Ds",
-    "title": "How-to: Prune Dogwoods (Cornus)",
-    "channel": "Crocus.co.uk",
-    "channelUrl": "https://www.youtube.com/watch?v=XuLFs9xw-Ds"
+    "id": "LbAK2BMOWuo",
+    "title": "Pruning Deutzia to remove older flowering branches",
+    "channel": "Burncoose Nurseries",
+    "channelUrl": "https://www.youtube.com/watch?v=LbAK2BMOWuo"
   }
 }
