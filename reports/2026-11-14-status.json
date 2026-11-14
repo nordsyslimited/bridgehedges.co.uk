@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-14",
+  "run": "nightly-content",
+  "status": "success",
+  "articlesShipped": 1,
+  "articles": [
+    {
+      "slug": "deutzia-pruning-informal-boundary-video-bridge",
+      "url": "https://bridgehedges.co.uk/how-to/deutzia-pruning-informal-boundary-video-bridge.html",
+      "title": "Deutzia Pruning for a Garden Boundary: a Video Companion for Bridge, Kent",
+      "videoId": "LbAK2BMOWuo",
+      "videoTitle": "Pruning Deutzia to remove older flowering branches",
+      "videoChannel": "Burncoose Nurseries",
+      "videoVerified": "search-result cross-referencing (YouTube egress unavailable from cloud session)",
+      "category": "species-care",
+      "datePublished": "2026-11-14"
+    }
+  ],
+  "filesModified": [
+    "how-to/deutzia-pruning-informal-boundary-video-bridge.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "how-to/forsythia-hedge-pruning-video-bridge.html"
+  ],
+  "topicGapConfirmed": true,
+  "videoCompanionStructure": true,
+  "nestingLawReferenced": true,
+  "conservationAreaReferenced": true,
+  "emDashesPresent": false,
+  "analyticsScriptPresent": true,
+  "noGoogleTrackers": true
+}
