@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-11-14T00:00:00Z",
+  "lastAuditAt": "2026-11-15T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 5,
-  "note": "5 needs-review: (1) highways-act @graph JSON-LD instead of flat Article; (2) all 5 services/tree pages contain Broadstairs-derived coastal content (seafront, clifftop, Stone Road, Albion Street, 'coast-aware' footer) — expanded from 2 items last run, now confirmed pervasive; (3) lonicera-nitida empty Watch-first callout, no yt-play button; (4) planting-bare-root empty Watch-first callout, no yt-play button; (5) YouTube liveness unverifiable from cloud. No auto-fixes needed today.",
-  "reportFile": "reports/2026-11-14-audit.md",
-  "lastNightlyContentAt": "2026-11-14",
+  "note": "5 needs-review (all carry-forward): (1) highways-act @graph JSON-LD instead of flat Article; (2) all 6 services/tree pages contain Broadstairs-derived coastal content (seafront, clifftop, Stone Road, Albion Street, 'coast-aware' footer); (3) lonicera-nitida Watch-first callout missing yt-play button; (4) planting-bare-root Watch-first callout missing yt-play button; (5) YouTube liveness unverifiable from cloud. No auto-fixes needed today.",
+  "reportFile": "reports/2026-11-15-audit.md",
+  "lastNightlyContentAt": "2026-11-15",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 54,
-  "lastSlug": "deutzia-pruning-informal-boundary-video-bridge",
+  "articlesShipped": 55,
+  "lastSlug": "how-to-cut-trim-hedges-technique-video-bridge",
   "lastVideo": {
-    "id": "LbAK2BMOWuo",
-    "title": "Pruning Deutzia to remove older flowering branches",
-    "channel": "Burncoose Nurseries",
-    "channelUrl": "https://www.youtube.com/watch?v=LbAK2BMOWuo"
+    "id": "_Dc3B2I7bu4",
+    "title": "How to cut & trim hedges: the ultimate guide for perfect garden hedges",
+    "channel": "Garden Ninja",
+    "channelUrl": "https://www.youtube.com/watch?v=_Dc3B2I7bu4"
   }
 }
