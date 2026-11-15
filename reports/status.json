@@ -1,13 +1,9 @@
 {
-  "lastRun": "2026-11-11",
-  "type": "nightly-content",
-  "articlesShipped": 1,
-  "urls": [
-    "https://bridgehedges.co.uk/how-to/magnolia-pruning-video-bridge.html"
+  "last_run": "2026-11-15",
+  "articles_added_today": 1,
+  "new_slugs": [
+    "how-to/how-to-cut-trim-hedges-technique-video-bridge.html"
   ],
-  "videoId": "NDb1xYaHSYI",
-  "videoTitle": "Pruning Magnolia - Burncoose Nurseries",
-  "topic": "Magnolia pruning (species care, ornamental boundary specimens)",
-  "status": "success",
-  "notes": "youtube.com and burncoose.co.uk blocked in cloud session network; video verified via search-result cross-referencing per INGESTION.md fallback protocol."
+  "audit_flags": [],
+  "status": "ok"
 }
