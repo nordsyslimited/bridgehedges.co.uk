@@ -2,16 +2,16 @@
   "lastAuditAt": "2026-11-16T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 6,
-  "note": "6 needs-review: (1) highways-act @graph JSON-LD + no video embed; (2) lonicera Watch-first callout missing yt-play button; (3) planting-bare-root Watch-first callout missing yt-play button; (4) all 6 services/tree pages contain Broadstairs coastal content; (5) YouTube ID _Dc3B2I7bu4 shared by two articles (new); (6) YouTube liveness unverifiable from cloud. No auto-fixes needed. New article (hardy fuchsia) passes all checks.",
+  "note": "6 needs-review: (1) highways-act @graph JSON-LD + no video embed; (2) lonicera Watch-first callout missing yt-play button; (3) planting-bare-root Watch-first callout missing yt-play button; (4) all 6 services/tree pages contain Broadstairs coastal content; (5) YouTube ID _Dc3B2I7bu4 shared by two articles (new); (6) YouTube liveness unverifiable from cloud. No auto-fixes needed.",
   "reportFile": "reports/2026-11-16-audit.md",
-  "lastNightlyContentAt": "2026-11-16",
+  "lastNightlyContentAt": "2026-11-17",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 56,
-  "lastSlug": "hardy-fuchsia-pruning-video-bridge",
+  "articlesShipped": 57,
+  "lastSlug": "viburnum-tinus-hedge-pruning-video-bridge",
   "lastVideo": {
-    "id": "fnAIJVXzVsc",
-    "title": "Hardy Fuchsia Pruning (Burncoose Nurseries)",
-    "channel": "Burncoose Nurseries",
-    "channelUrl": "https://www.youtube.com/watch?v=fnAIJVXzVsc"
+    "id": "Z0NH-vK3Lng",
+    "title": "HOW TO PRUNE VIBURNUM TINUS",
+    "channel": "unverified",
+    "channelUrl": "https://www.youtube.com/watch?v=Z0NH-vK3Lng"
   }
 }
