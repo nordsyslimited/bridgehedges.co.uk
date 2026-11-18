@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-11-17T00:00:00Z",
+  "lastAuditAt": "2026-11-18T00:00:00Z",
   "auditStatus": "issues",
   "issueCount": 6,
-  "note": "1 auto-fixed: 'robustness' banned word in viburnum article. 6 needs-review (carry-overs): (1) highways-act @graph JSON-LD + no video embed; (2) lonicera Watch-first callout missing yt-play button; (3) planting-bare-root Watch-first callout missing yt-play button; (4) all 6 services/tree pages contain Broadstairs coastal content; (5) YouTube ID _Dc3B2I7bu4 shared by how-to-cut and when-to-cut articles; (6) YouTube liveness unverifiable from cloud.",
-  "reportFile": "reports/2026-11-17-audit.md",
-  "lastNightlyContentAt": "2026-11-17",
+  "note": "No auto-fixes today. 6 needs-review (carry-overs): (1) highways-act @graph JSON-LD + no video embed; (2) lonicera Watch-first callout missing yt-play button; (3) planting-bare-root Watch-first callout missing yt-play button; (4) all 6 services/tree pages contain Broadstairs coastal content; (5) YouTube ID _Dc3B2I7bu4 shared by how-to-cut and when-to-cut articles; (6) YouTube liveness unverifiable from cloud.",
+  "reportFile": "reports/2026-11-18-audit.md",
+  "lastNightlyContentAt": "2026-11-18",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 57,
-  "lastSlug": "viburnum-tinus-hedge-pruning-video-bridge",
+  "articlesShipped": 58,
+  "lastSlug": "hydrangea-pruning-chalk-soil-video-bridge",
   "lastVideo": {
-    "id": "Z0NH-vK3Lng",
-    "title": "HOW TO PRUNE VIBURNUM TINUS",
+    "id": "yxTsmwydyEo",
+    "title": "unverified",
     "channel": "unverified",
-    "channelUrl": "https://www.youtube.com/watch?v=Z0NH-vK3Lng"
+    "channelUrl": "https://www.youtube.com/watch?v=yxTsmwydyEo"
   }
 }
