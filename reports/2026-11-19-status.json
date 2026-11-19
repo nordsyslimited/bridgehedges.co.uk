@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-19",
+  "run": "nightly-content",
+  "status": "shipped",
+  "articles_shipped": 1,
+  "article": {
+    "slug": "weigela-pruning-informal-boundary-video-bridge",
+    "url": "https://bridgehedges.co.uk/how-to/weigela-pruning-informal-boundary-video-bridge.html",
+    "title": "Weigela pruning for a garden boundary: a video companion for Bridge, Kent",
+    "video_id": "iI9L65yjTeQ",
+    "video_title": "Trimming and pruning Weigela florida 'Variegata'",
+    "video_channel": "Burncoose Nurseries",
+    "date_published": "2026-11-19",
+    "category": "species-care"
+  },
+  "files_modified": [
+    "how-to/weigela-pruning-informal-boundary-video-bridge.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "how-to/forsythia-hedge-pruning-video-bridge.html",
+    "reports/2026-11-19-content.md",
+    "reports/2026-11-19-status.json"
+  ],
+  "youtube_egress": "blocked",
+  "video_verified_by": "search-result-cross-referencing"
+}
