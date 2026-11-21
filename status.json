@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-11-20T00:00:00Z",
+  "lastAuditAt": "2026-11-21T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 6,
-  "note": "No auto-fixes today. 6 needs-review (all carry-overs): (1) highways-act @graph JSON-LD + no video embed; (2) lonicera Watch-first callout empty (yt-play button missing, ID gyhRxRdFERo); (3) planting-bare-root Watch-first callout empty (yt-play button missing, ID qDJc9rqCAY4); (4) services/tree/pruning.html:34 Broadstairs coastal content (seafront/Stone Road/salt-wind in holm oak entry); (5) YouTube ID _Dc3B2I7bu4 shared by how-to-cut and when-to-cut articles; (6) YouTube liveness unverifiable from cloud.",
-  "reportFile": "reports/2026-11-20-audit.md",
-  "lastNightlyContentAt": "2026-11-20",
+  "issueCount": 8,
+  "note": "Auto-fixed: sitemap lastmod (72 stale entries updated to git dates), 2 noindex redirect stubs removed from sitemap. 8 needs-review: (1) highways-act @graph JSON-LD; (2) highways-act no video companion; (3) lonicera empty callout (yt-play missing, ID gyhRxRdFERo); (4) planting-bare-root empty callout (yt-play missing, ID qDJc9rqCAY4); (5) services/tree/pruning.html Broadstairs coastal content in species notes; (6) shared video ID _Dc3B2I7bu4 on how-to-cut + when-to-cut; (7) NEW: shared video ID 4WSjAk_xzCA on pittosporum + euonymus (pittosporum added today); (8) YouTube liveness unverifiable from cloud.",
+  "reportFile": "reports/2026-11-21-audit.md",
+  "lastNightlyContentAt": "2026-11-21",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 60,
-  "lastSlug": "osmanthus-burkwoodii-hedge-pruning-video-bridge",
+  "articlesShipped": 61,
+  "lastSlug": "pittosporum-tenuifolium-hedge-pruning-video-bridge",
   "lastVideo": {
-    "id": "AhdiPF7525E",
-    "title": "Fragrant hedge for 2021? Try Osmanthus x burkwoodii, a fragrant hedging plant with a citrus scent",
-    "channel": "UK nursery hedging video",
-    "channelUrl": ""
+    "id": "4WSjAk_xzCA",
+    "title": "Pruning Variegated Plants",
+    "channel": "Burncoose Nurseries",
+    "channelUrl": "https://www.youtube.com/@Burncoose"
   }
 }
