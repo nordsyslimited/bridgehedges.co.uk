@@ -1,16 +1,16 @@
 {
-  "lastAuditAt": "2026-11-21T07:00:00Z",
+  "lastAuditAt": "2026-11-22T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 8,
-  "note": "Auto-fixed: sitemap lastmod (72 stale entries updated to git dates), 2 noindex redirect stubs removed from sitemap. 8 needs-review: (1) highways-act @graph JSON-LD; (2) highways-act no video companion; (3) lonicera empty callout (yt-play missing, ID gyhRxRdFERo); (4) planting-bare-root empty callout (yt-play missing, ID qDJc9rqCAY4); (5) services/tree/pruning.html Broadstairs coastal content in species notes; (6) shared video ID _Dc3B2I7bu4 on how-to-cut + when-to-cut; (7) NEW: shared video ID 4WSjAk_xzCA on pittosporum + euonymus (pittosporum added today); (8) YouTube liveness unverifiable from cloud.",
-  "reportFile": "reports/2026-11-21-audit.md",
-  "lastNightlyContentAt": "2026-11-21",
+  "note": "No auto-fixes today. 8 needs-review carry forward (highways-act @graph + no video; lonicera + planting-bare-root missing yt-play; services/tree/pruning coastal content; 2 shared video IDs; YouTube liveness unverifiable). New article (abutilon, 62nd) passes all checks.",
+  "reportFile": "reports/2026-11-22-audit.md",
+  "lastNightlyContentAt": "2026-11-22",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 61,
-  "lastSlug": "pittosporum-tenuifolium-hedge-pruning-video-bridge",
+  "articlesShipped": 62,
+  "lastSlug": "abutilon-pruning-screen-burncoose-video-bridge",
   "lastVideo": {
-    "id": "4WSjAk_xzCA",
-    "title": "Pruning Variegated Plants",
+    "id": "tIoRDQS7xFk",
+    "title": "Pruning abutilons - Burncoose Nurseries",
     "channel": "Burncoose Nurseries",
     "channelUrl": "https://www.youtube.com/@Burncoose"
   }
