@@ -1,16 +1,16 @@
 {
-  "lastAuditAt": "2026-11-22T07:00:00Z",
+  "lastAuditAt": "2026-11-23T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 8,
-  "note": "No auto-fixes today. 8 needs-review carry forward (highways-act @graph + no video; lonicera + planting-bare-root missing yt-play; services/tree/pruning coastal content; 2 shared video IDs; YouTube liveness unverifiable). New article (abutilon, 62nd) passes all checks.",
-  "reportFile": "reports/2026-11-22-audit.md",
-  "lastNightlyContentAt": "2026-11-22",
+  "note": "No auto-fixes today. 8 needs-review carry forward (highways-act @graph + no video; lonicera + planting-bare-root missing yt-play; services/tree/pruning coastal content; 2 shared video IDs; YouTube liveness unverifiable). New article (ivy-removal, 63rd) passes all checks.",
+  "reportFile": "reports/2026-11-23-audit.md",
+  "lastNightlyContentAt": "2026-11-23",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 62,
-  "lastSlug": "abutilon-pruning-screen-burncoose-video-bridge",
+  "articlesShipped": 63,
+  "lastSlug": "ivy-removal-boundary-wall-video-bridge",
   "lastVideo": {
-    "id": "tIoRDQS7xFk",
-    "title": "Pruning abutilons - Burncoose Nurseries",
+    "id": "iVj8pK_M680",
+    "title": "Burncoose Nurseries ivy removal demonstration",
     "channel": "Burncoose Nurseries",
     "channelUrl": "https://www.youtube.com/@Burncoose"
   }
