@@ -1,0 +1,26 @@
+{
+  "run_date": "2026-11-24",
+  "status": "success",
+  "articles_added": 1,
+  "total_articles": 64,
+  "new_article": {
+    "slug": "euonymus-japonicus-hedge-clipping-video-bridge",
+    "url": "https://bridgehedges.co.uk/how-to/euonymus-japonicus-hedge-clipping-video-bridge.html",
+    "video_id": "TtPs8HOoZeo",
+    "video_title": "Shaping up small evergreen plant",
+    "channel": "Burncoose Nurseries",
+    "category": "Species care",
+    "date_published": "2026-11-24"
+  },
+  "files_modified": [
+    "how-to/euonymus-japonicus-hedge-clipping-video-bridge.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "how-to/box-blight-box-tree-moth-video-bridge.html",
+    "how-to/variegated-euonymus-hedge-pruning-video-bridge.html",
+    "reports/2026-11-24-content.md",
+    "reports/2026-11-24-status.json"
+  ],
+  "carry_over_issues": 8,
+  "notes": "YouTube direct access unavailable (ENOTFOUND). Video confirmed via Google search result indexing returning full title and YouTube URL. Standard documented fallback for this environment."
+}
