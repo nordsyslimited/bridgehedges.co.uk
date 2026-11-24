@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-11-23T07:00:00Z",
+  "lastAuditAt": "2026-11-24T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 8,
-  "note": "No auto-fixes today. 8 needs-review carry forward (highways-act @graph + no video; lonicera + planting-bare-root missing yt-play; services/tree/pruning coastal content; 2 shared video IDs; YouTube liveness unverifiable). New article (ivy-removal, 63rd) passes all checks.",
-  "reportFile": "reports/2026-11-23-audit.md",
-  "lastNightlyContentAt": "2026-11-23",
+  "issueCount": 9,
+  "note": "Auto-fixed: 4 sitemap lastmod dates corrected to git dates. 9 needs-review: highways-act @graph + no video; lonicera + planting-bare-root missing yt-play; services/tree coastal content extended to all 6 pages (NR-5 + NR-9); 2 shared video IDs; YouTube liveness unverifiable. New article (euonymus-japonicus, 64th) passes all checks.",
+  "reportFile": "reports/2026-11-24-audit.md",
+  "lastNightlyContentAt": "2026-11-24",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 63,
-  "lastSlug": "ivy-removal-boundary-wall-video-bridge",
+  "articlesShipped": 64,
+  "lastSlug": "euonymus-japonicus-hedge-clipping-video-bridge",
   "lastVideo": {
-    "id": "iVj8pK_M680",
-    "title": "Burncoose Nurseries ivy removal demonstration",
+    "id": "TtPs8HOoZeo",
+    "title": "Shaping up small evergreen plant",
     "channel": "Burncoose Nurseries",
-    "channelUrl": "https://www.youtube.com/@Burncoose"
+    "channelUrl": "https://www.youtube.com/@BurncooseNurseries"
   }
 }
