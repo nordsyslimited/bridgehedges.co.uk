@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-11-24T07:00:00Z",
+  "lastAuditAt": "2026-11-25T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 9,
-  "note": "Auto-fixed: 4 sitemap lastmod dates corrected to git dates. 9 needs-review: highways-act @graph + no video; lonicera + planting-bare-root missing yt-play; services/tree coastal content extended to all 6 pages (NR-5 + NR-9); 2 shared video IDs; YouTube liveness unverifiable. New article (euonymus-japonicus, 64th) passes all checks.",
-  "reportFile": "reports/2026-11-24-audit.md",
-  "lastNightlyContentAt": "2026-11-24",
+  "note": "Auto-fixed: none. 9 needs-review (all carry-overs): highways-act @graph + no video; lonicera + planting-bare-root missing yt-play; services/tree coastal content (all 6 pages); 2 shared video IDs; YouTube liveness unverifiable. New article (thuja-plicata, 65th) passes all checks.",
+  "reportFile": "reports/2026-11-25-audit.md",
+  "lastNightlyContentAt": "2026-11-25",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 64,
-  "lastSlug": "euonymus-japonicus-hedge-clipping-video-bridge",
+  "articlesShipped": 65,
+  "lastSlug": "thuja-plicata-western-red-cedar-hedge-trimming-video-bridge",
   "lastVideo": {
-    "id": "TtPs8HOoZeo",
-    "title": "Shaping up small evergreen plant",
-    "channel": "Burncoose Nurseries",
-    "channelUrl": "https://www.youtube.com/@BurncooseNurseries"
+    "id": "cl7Pb9BAdzg",
+    "title": "A focus on Western Red Cedar hedging: All you need to know about Thuja plicata",
+    "channel": "best4hedging",
+    "channelUrl": "https://www.youtube.com/c/Best4hedgingCoUk"
   }
 }
