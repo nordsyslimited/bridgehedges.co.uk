@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-26",
+  "run": "nightly-content",
+  "status": "success",
+  "articles_added": 1,
+  "articles": [
+    {
+      "slug": "hedgerow-management-cutting-frequency-wildlife-video-bridge.html",
+      "path": "how-to/hedgerow-management-cutting-frequency-wildlife-video-bridge.html",
+      "title": "Healthy hedgerow management: cutting frequency, wildlife and the PTES lifecycle guide for Bridge, Kent.",
+      "video_id": "_UV3cUE5QDc",
+      "video_title": "Management for Healthy Hedgerows",
+      "video_channel": "PTES (People's Trust for Endangered Species)",
+      "video_published": "2025-02-24",
+      "category": "Hedge management",
+      "date_published": "2026-11-26"
+    }
+  ],
+  "files_modified": [
+    "how-to/hedgerow-management-cutting-frequency-wildlife-video-bridge.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "how-to/when-to-cut-hedges-nesting-law-video-bridge.html",
+    "how-to/hedge-laying-south-of-england-style-bridge.html"
+  ]
+}
