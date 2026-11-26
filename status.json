@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-11-25T07:00:00Z",
+  "lastAuditAt": "2026-11-26T07:30:00Z",
   "auditStatus": "issues",
   "issueCount": 9,
-  "note": "Auto-fixed: none. 9 needs-review (all carry-overs): highways-act @graph + no video; lonicera + planting-bare-root missing yt-play; services/tree coastal content (all 6 pages); 2 shared video IDs; YouTube liveness unverifiable. New article (thuja-plicata, 65th) passes all checks.",
-  "reportFile": "reports/2026-11-25-audit.md",
-  "lastNightlyContentAt": "2026-11-25",
+  "note": "Auto-fixed: none. 9 needs-review (all carry-overs): highways-act @graph + no video; lonicera + planting-bare-root missing yt-play; services/tree coastal content (all 6 pages); 2 shared video IDs; YouTube liveness unverifiable. New article (hedgerow-management, 66th) passes all checks.",
+  "reportFile": "reports/2026-11-26-audit.md",
+  "lastNightlyContentAt": "2026-11-26",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 65,
-  "lastSlug": "thuja-plicata-western-red-cedar-hedge-trimming-video-bridge",
+  "articlesShipped": 66,
+  "lastSlug": "hedgerow-management-cutting-frequency-wildlife-video-bridge",
   "lastVideo": {
-    "id": "cl7Pb9BAdzg",
-    "title": "A focus on Western Red Cedar hedging: All you need to know about Thuja plicata",
-    "channel": "best4hedging",
-    "channelUrl": "https://www.youtube.com/c/Best4hedgingCoUk"
+    "id": "_UV3cUE5QDc",
+    "title": "Management for Healthy Hedgerows",
+    "channel": "PTES (People's Trust for Endangered Species)",
+    "channelUrl": "https://www.youtube.com/watch?v=_UV3cUE5QDc"
   }
 }
