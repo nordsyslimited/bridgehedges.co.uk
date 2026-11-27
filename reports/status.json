@@ -1,9 +1,19 @@
 {
-  "last_run": "2026-11-23",
-  "articles_added_today": 1,
-  "new_slugs": [
-    "how-to/ivy-removal-boundary-wall-video-bridge.html"
+  "lastRun": "2026-11-27",
+  "articlesAdded": 1,
+  "newSlugs": [
+    "how-to/guelder-rose-viburnum-opulus-pruning-video-bridge.html"
   ],
-  "audit_flags": [],
+  "videoIds": [
+    "tSI0sLH9e4M"
+  ],
+  "filesModified": [
+    "how-to/guelder-rose-viburnum-opulus-pruning-video-bridge.html",
+    "how-to/index.html",
+    "how-to/viburnum-tinus-hedge-pruning-video-bridge.html",
+    "sitemap.xml",
+    "reports/2026-11-27-content.md",
+    "reports/status.json"
+  ],
   "status": "ok"
 }
