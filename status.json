@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-11-26T07:30:00Z",
+  "lastAuditAt": "2026-11-27T07:30:00Z",
   "auditStatus": "issues",
-  "issueCount": 9,
-  "note": "Auto-fixed: none. 9 needs-review (all carry-overs): highways-act @graph + no video; lonicera + planting-bare-root missing yt-play; services/tree coastal content (all 6 pages); 2 shared video IDs; YouTube liveness unverifiable. New article (hedgerow-management, 66th) passes all checks.",
-  "reportFile": "reports/2026-11-26-audit.md",
-  "lastNightlyContentAt": "2026-11-26",
+  "issueCount": 10,
+  "note": "Auto-fixed: sitemap missing services/hedge-planting.html + services/hedge-removal.html. 10 needs-review: highways-act @graph + no video (carry-over); lonicera + planting-bare-root missing yt-play (carry-over); services/tree coastal content all 6 pages (carry-over); duplicate video IDs 4WSjAk_xzCA + _Dc3B2I7bu4 (carry-over); YouTube liveness unverifiable (carry-over); NEW og:type missing on 17 non-article pages. New article (guelder-rose, 67th) passes all checks.",
+  "reportFile": "reports/2026-11-27-audit.md",
+  "lastNightlyContentAt": "2026-11-27",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 66,
-  "lastSlug": "hedgerow-management-cutting-frequency-wildlife-video-bridge",
+  "articlesShipped": 67,
+  "lastSlug": "guelder-rose-viburnum-opulus-pruning-video-bridge",
   "lastVideo": {
-    "id": "_UV3cUE5QDc",
-    "title": "Management for Healthy Hedgerows",
-    "channel": "PTES (People's Trust for Endangered Species)",
-    "channelUrl": "https://www.youtube.com/watch?v=_UV3cUE5QDc"
+    "id": "tSI0sLH9e4M",
+    "title": "How To Prune / Rejuvenate Viburnum Opulus 'Roseum', How To Cut Back Viburnum Opulus",
+    "channel": "YouTube (unverified — outbound blocked in audit env)",
+    "channelUrl": "https://www.youtube.com/watch?v=tSI0sLH9e4M"
   }
 }
