@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-11-27T07:30:00Z",
+  "lastAuditAt": "2026-11-28T07:30:00Z",
   "auditStatus": "issues",
-  "issueCount": 10,
-  "note": "Auto-fixed: sitemap missing services/hedge-planting.html + services/hedge-removal.html. 10 needs-review: highways-act @graph + no video (carry-over); lonicera + planting-bare-root missing yt-play (carry-over); services/tree coastal content all 6 pages (carry-over); duplicate video IDs 4WSjAk_xzCA + _Dc3B2I7bu4 (carry-over); YouTube liveness unverifiable (carry-over); NEW og:type missing on 17 non-article pages. New article (guelder-rose, 67th) passes all checks.",
-  "reportFile": "reports/2026-11-27-audit.md",
+  "issueCount": 11,
+  "note": "Auto-fixed: nothing today. 11 needs-review: highways-act @graph + no video (carry-over); lonicera + planting-bare-root missing yt-play (carry-over); services/tree coastal content all 6 pages (carry-over); duplicate video IDs 4WSjAk_xzCA + _Dc3B2I7bu4 (carry-over); YouTube liveness unverifiable (carry-over); og:type missing on 17 non-article pages (carry-over); NEW analytics.js absent from 2 JS-redirect stubs (hedge-planting + hedge-removal). New article (sympathetic, 68th) passes all checks.",
+  "reportFile": "reports/2026-11-28-audit.md",
   "lastNightlyContentAt": "2026-11-28",
   "lastNightlyContentStatus": "ok",
   "articlesShipped": 68,
