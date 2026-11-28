@@ -4,14 +4,14 @@
   "issueCount": 10,
   "note": "Auto-fixed: sitemap missing services/hedge-planting.html + services/hedge-removal.html. 10 needs-review: highways-act @graph + no video (carry-over); lonicera + planting-bare-root missing yt-play (carry-over); services/tree coastal content all 6 pages (carry-over); duplicate video IDs 4WSjAk_xzCA + _Dc3B2I7bu4 (carry-over); YouTube liveness unverifiable (carry-over); NEW og:type missing on 17 non-article pages. New article (guelder-rose, 67th) passes all checks.",
   "reportFile": "reports/2026-11-27-audit.md",
-  "lastNightlyContentAt": "2026-11-27",
+  "lastNightlyContentAt": "2026-11-28",
   "lastNightlyContentStatus": "ok",
-  "articlesShipped": 67,
-  "lastSlug": "guelder-rose-viburnum-opulus-pruning-video-bridge",
+  "articlesShipped": 68,
+  "lastSlug": "sympathetic-hedge-cutting-wildlife-video-bridge",
   "lastVideo": {
-    "id": "tSI0sLH9e4M",
-    "title": "How To Prune / Rejuvenate Viburnum Opulus 'Roseum', How To Cut Back Viburnum Opulus",
-    "channel": "YouTube (unverified — outbound blocked in audit env)",
-    "channelUrl": "https://www.youtube.com/watch?v=tSI0sLH9e4M"
+    "id": "-wtGsvYybjc",
+    "title": "Sympathetic hedge cutting – practical tips and insights!",
+    "channel": "UK Centre for Ecology & Hydrology (UKCEH)",
+    "channelUrl": "https://www.youtube.com/watch?v=-wtGsvYybjc"
   }
 }
